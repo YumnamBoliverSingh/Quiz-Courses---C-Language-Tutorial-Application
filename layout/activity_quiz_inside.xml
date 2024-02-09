@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizActivityInside">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:backgroundTint="#990100"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/appBarLAyoutTBA"
+        >
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="21dp"
+                android:layout_height="21dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginLeft="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:id="@+id/backQuizInside"
+                android:src="@drawable/back"
+
+                android:background="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="56dp"
+
+        android:background="#ffffff">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score:   "
+            android:textStyle="bold"
+
+            android:layout_marginLeft="3dp"
+            android:textColor="#F44236"
+            android:layout_marginTop="15dp"
+            android:id="@+id/scoreQuizlala"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00"
+            android:textStyle="bold"
+            android:textColor="#F44236"
+            android:layout_marginTop="15dp"
+            android:id="@+id/scoreQuizInside"
+            app:layout_constraintStart_toEndOf="@id/scoreQuizlala"
+            app:layout_constraintTop_toTopOf="parent"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Level:   "
+            android:textStyle="bold"
+
+            android:textColor="#000000"
+            android:layout_marginLeft="3dp"
+
+            android:id="@+id/levelQuizlala"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/scoreQuizlala"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Easy"
+            android:textStyle="bold"
+            android:layout_marginLeft="4dp"
+            android:textColor="#000000"
+            android:id="@+id/levelQuizInside"
+            app:layout_constraintStart_toEndOf="@id/levelQuizlala"
+            app:layout_constraintTop_toTopOf="@id/levelQuizlala"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="15dp"
+            android:textSize="24dp"
+            android:layout_marginRight="5dp"
+            android:textStyle="bold"
+            android:textColor="#F44236"
+            android:text="00:30"
+            android:id="@+id/tvCountDown"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/levelQuizlala"
+
+            app:layout_constraintEnd_toStartOf="@id/qc_n_tv"
+            android:text="Current Question Number:"
+            android:textStyle="bold|italic"
+            android:id="@+id/qc_tv"
+            android:layout_marginTop="15dp"
+            android:textSize="11.5dp"
+            android:layout_marginRight="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginRight="10dp"
+            app:layout_constraintTop_toTopOf="@id/qc_tv"
+            android:text="01"
+            android:textStyle="bold"
+
+            android:textColor="@color/red"
+            app:layout_constraintBottom_toBottomOf="@id/qc_tv"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/qc_n_tv"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/qc_tv"
+            app:layout_constraintEnd_toStartOf="@id/ac_n_tv"
+            android:text="Answers Correct:"
+
+            android:textStyle="bold|italic"
+            android:id="@+id/ac_tv"
+            android:layout_marginTop="2dp"
+            android:textSize="11.5dp"
+            android:layout_marginRight="43dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="00"
+            android:textColor="@color/red"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            app:layout_constraintBottom_toBottomOf="@id/ac_tv"
+            app:layout_constraintTop_toTopOf="@id/ac_tv"
+            android:id="@+id/ac_n_tv"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/ac_tv"
+            app:layout_constraintEnd_toStartOf="@id/ac_n_tv"
+            android:text="Marks/Scoring Scheme:"
+
+            android:textStyle="bold|italic"
+            android:id="@+id/mpq_tv"
+            android:layout_marginTop="2dp"
+            android:textSize="11.5dp"
+            android:layout_marginRight="43dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="3/1Q"
+            android:textColor="@color/red"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            app:layout_constraintBottom_toBottomOf="@id/mpq_tv"
+            app:layout_constraintTop_toTopOf="@id/mpq_tv"
+            android:id="@+id/mpk_n_tv"
+            />
+
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginTop="130dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+
+            >
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <!-- Question.. TextView inside -->
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:background="@drawable/bckg_quiz"
+
+                    android:id="@+id/quizQuestionConstraintLAyout"
+                    >
+                    <TextView
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        android:textStyle="bold"
+                        android:textColor="@color/tool_bar_read"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textViewQuizQuestion"/>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:padding="15dp"
+                    android:id="@+id/optionCLquiz"
+                    app:layout_constraintTop_toBottomOf="@id/quizQuestionConstraintLAyout"
+                    android:background="@drawable/bckg_quiz"
+                    >
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideRB1"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        />
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideRB2"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/quizinsideRB1"
+                        />
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideRB3"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/quizinsideRB2"
+                        />
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        android:id="@+id/quizinsideRB4"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/quizinsideRB3"
+                        />
+                    <!--  Quiz Texts: Four TextView  -->
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideTV1"
+                        app:layout_constraintStart_toEndOf="@id/quizinsideRB1"
+                        app:layout_constraintTop_toTopOf="@id/quizinsideRB1"
+                        app:layout_constraintBottom_toBottomOf="@id/quizinsideRB1"
+                        android:text="Easy"
+                        android:textColor="#000000"
+                        android:textStyle="bold"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideTV2"
+                        app:layout_constraintStart_toEndOf="@id/quizinsideRB2"
+                        app:layout_constraintTop_toTopOf="@id/quizinsideRB2"
+                        app:layout_constraintBottom_toBottomOf="@id/quizinsideRB2"
+                        android:text="Medium"
+                        android:textColor="#000000"
+
+                        android:textStyle="bold"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideTV3"
+                        app:layout_constraintStart_toEndOf="@id/quizinsideRB3"
+                        app:layout_constraintTop_toTopOf="@id/quizinsideRB3"
+                        app:layout_constraintBottom_toBottomOf="@id/quizinsideRB3"
+                        android:text="Hard"
+                        android:textStyle="bold"
+                        android:textColor="#000000"
+
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/quizinsideTV4"
+                        app:layout_constraintStart_toEndOf="@id/quizinsideRB4"
+                        app:layout_constraintTop_toTopOf="@id/quizinsideRB4"
+                        app:layout_constraintBottom_toBottomOf="@id/quizinsideRB4"
+                        android:text="Hard"
+                        android:textColor="#000000"
+
+                        android:textStyle="bold"
+                        />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+                <android.widget.Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/buttonConfirmFinishQuiz"
+                    android:text="Confirm"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:background="@color/blue"
+                    android:layout_marginBottom="20dp"
+
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/optionCLquiz"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_marginTop="50dp"
+                    />
+
+                <android.widget.Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/buttonNextFinishQuiz"
+                    android:text="Next"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="20dp"
+                    android:background="#574531"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/optionCLquiz"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_marginTop="50dp"
+                    />
+
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </ScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

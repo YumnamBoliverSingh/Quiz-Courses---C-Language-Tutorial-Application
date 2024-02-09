@@ -1,0 +1,45 @@
+package com.example.cprogrammingtutorial_easyconceptnoads;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.os.Build;
+import android.os.Bundle;
+import android.os.Handler;
+import android.view.Window;
+import android.view.WindowManager;
+import android.widget.Toast;
+
+public class SplashScreenActivity_FirstActivity extends AppCompatActivity {
+    int TIME_OUT = 1000; //Time to launch the another activity
+
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_splash_screen_first);
+        getSupportActionBar().hide();
+        if (Build.VERSION.SDK_INT >= 21) {
+            Window window = this.getWindow();
+            window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
+            window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+//            window.setStatusBarColor(this.getResources().getColor(R.color.st));
+        }
+
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+
+                Toast.makeText(getApplicationContext(), "Redirecting ..", Toast.LENGTH_LONG).show();
+
+                Intent i = new Intent(SplashScreenActivity_FirstActivity.this, MainActivity.class);
+                startActivity(i);
+                finish();
+
+
+            }
+        },  TIME_OUT);
+
+    }
+}

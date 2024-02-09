@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cprogrammingtutorial_easyconceptnoads">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/c_programming_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/c_programming_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CProgrammingTutorialEasyConceptNoAds"
+        tools:targetApi="31">
+        <activity
+            android:name=".SplashScreenActivity_FirstActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TopicsBriefingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SubTopicsBriefingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuizActivityOutside"
+            android:exported="false" />
+        <activity
+            android:name=".QuizActivityInside"
+            android:exported="false" />
+        <activity
+            android:name=".ProgramNOutput"
+            android:exported="false" />
+        <activity
+            android:name=".Internet_std_library"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+
+    </application>
+
+</manifest>
