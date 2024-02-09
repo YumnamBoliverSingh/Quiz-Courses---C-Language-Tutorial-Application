@@ -1,0 +1,1410 @@
+<resources>
+    <string name="app_name">C Programming Tutorial - Easy Concept (No Ads)</string>
+
+    <string name="tab_text_1"><b>LESSONS</b></string>
+    <string name="tab_text_2"><b>PROGRAMS</b></string>
+    <string name="tab_text_3"><b>FAQ\'s</b></string>
+
+
+    <string name="string_output1">Hello, World!</string>
+    <string name="string_output2">Enter two integers: 12\n11\n12 + 11 = 23</string>
+    <string name="string_output3">Enter two integers: 12\n11\n12 + 11 = 23</string>
+    <string name="string_output4">Enter a number:4\n4 is even number\nenter a number:5</string>
+    <string name="string_output5">Enter a number:4\n4 is even number\nenter a number:5</string>
+    <string name="string_output6">6\nEven</string>
+    <string name="string_output7">6\nEven</string>
+    <string name="string_output8">1\n2\n3\n4\n5\n6\n7\n8\n9\n10</string>
+    <string name="string_output9">1\n2\n3\n4\n5\n6\n7\n8\n9\n10</string>
+    <string name="string_output10">Enter a number: 1.5\nEnter a number: 2.4\nEnter a number: -3.4\nEnter a number: 4.2\nEnter a number: 0\nSum = 4.70</string>
+
+    <string name="string_output11">Enter the number of terms: 10\nFibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,</string>
+    <string name="string_output12">10 20 30 40</string>
+    <string name="string_output13">arr[0][0] = 1\narr[0][1] = 2\narr[0][2] = 3\narr[1][0] = 2\narr[1][1] = 3\narr[1][2] = 4\narr[2][0] = 3\narr[2][1] = 4\narr[2][2] = 5\narr[3][0] = 4\narr[3][1] = 5\narr[3][2] = 6</string>
+    <string name="string_output14">Smallest element present in given array: 7</string>
+    <string name="string_output15">Enter the number of elements (1 to 100): 5\nEnter number1: 34.5\nEnter number2: 2.4\nEnter number3: -35.5\nEnter number4: 38.7\nEnter number5: 24.5\nLargest element = 38.70</string>
+    <string name="string_output16">enter no of elements in array of students:6\nenter 6 elements are:\n12\n23\n34\n45\n56\n67\nenter the position where you want to insert the element:3\nenter the value into that poition:48\nfinal array after inserting the value is\n12\n23\n48\n34\n45\n56\n67</string>
+    <string name="string_output17">Enter the size of first array 5\nEnter the size of second array 5\nEnter the sorted array elements 5 4 3 2 1\nEnter the sorted array elements 9 8 7 6 5\nThe merged array..\n1 2 3 4 5 9 8 7 6 5\nAfter sorting. . .\n9 8 7 6 5 5 4 3 2 1</string>
+    <string name="string_output18">minimum number is 3</string>
+    <string name="string_output19">6, 9, 8, 7, 2, 4, 3\n3,4,2,7,8,9,</string>
+    <string name="string_output20">6, 9, 8, 7, 2, 4, 3\n3,4,2,7,8,9,</string>
+
+    <string name="string_output21">Elements of array are : 45 67 34 78 90</string>
+    <string name="string_output22">Value of var[0] = 10\nValue of var[1] = 100\nValue of var[2] = 200</string>
+    <string name="string_output23">Value of array pointer variable : 1481173888\nValue of pointer variable : 1481173880</string>
+    <string name="string_output24">Sorted array:\n11 12 22 25 34 64 90 n</string>
+    <string name="string_output25">0 2 6 11 12 18 34 45 55 99</string>
+    <string name="string_output26">5 6 11 12 13 </string>
+    <string name="string_output27">Sorted array is\n17 24 31 45 50 63 85 96</string>
+    <string name="string_output28">Enter some elements (Max. - 25): 5\nEnter 5 elements: 5 22 -19 63 1\nThe Sorted Order is: -19 1 5 22 63</string>
+    <string name="string_output29">Enter the number of rows and columns of matrix\n2\n2\nEnter the elements of first matrix\n1 2\n3 4\nEnter the elements of second matrix\n5 6\n2 1\nSum of entered matrices:-\n6\t8\n5\t5</string>
+    <string name="string_output30">Enter the number of rows and columns of matrix\n2\n2\nEnter the elements of first matrix\n5 4\n2 1\nEnter the elements of second matrix\n4 3\n1 2\Difference of entered matrices:-\n1\t1\n1\t-1</string>
+
+    <string name="string_output31">enter the number of row=3\nenter the number of column=3\nenter the first matrix element=\n1 1 1\n2 2 2\n3 3 3\nenter the second matrix element=\n1 1 1\n2 2 2\n3 3 3\nmultiply of the matrix=\n6 6 6\n12 12 12\n18 18 18</string>
+    <string name="string_output32">Enter rows and columns: 2\n3\n\nEnter matrix elements:\nEnter element a11: 1\nEnter element a12: 4\nEnter element a13: 0\nEnter element a21: -5\nEnter element a22: 2\nEnter element a23: 7\n\nEntered matrix:\n1  4  0\n-5  2  7\n\nTranspose of the matrix:\n1  -5\n4  2\n0  7 </string>
+    <string name="string_output33">For 1st complex number\nEnter the real and imaginary parts: 2.1\n-2.3\n\nFor 2nd complex number\nEnter the real and imaginary parts: 5.6\n23.2\nSum = 7.7 + 20.9i</string>
+    <string name="string_output34">How many elements\?10\nEnter array elements:\n21\n22\n34\n12\n66\n77\n87\n99\n09\n39\n\nEnter element to search:87\nElement found at index 6</string>
+    <string name="string_output35">Enter number of elements\n5\nEnter 5 integers\n1\n2\n3\n4\n5\nEnter value to find\n4\n4 found at location 4.\n\n</string>
+    <string name="string_output36">Element found at index : 4</string>
+    <string name="string_output37">Before swap, value of a : 100\nBefore swap, value of b : 200\nfter swap, value of a : 100\nAfter swap, value of b : 200</string>
+    <string name="string_output38">Before swap, value of a : 100\nBefore swap, value of b : 200\nAfter swap, value of a : 200\nAfter swap, value of b : 100</string>
+    <string name="string_output39">Enter the employee current salary:10000\nEnter bonus:2000\nFinal salary: 12000</string>
+    <string name="string_output40">Please enter your preferred number of elements here: 15\nThe Fibonacci Series will be:\n\n0 1 1 2 3 5 8 13 21 34 55 89 144 233 377</string>
+
+    <string name="string_output41">Enter a number: 5\nFactorial of 5 is: 120</string>
+    <string name="string_output42">Output unavailable</string>
+    <string name="string_output43">Output unavailable</string>
+    <string name="string_output44">Output unavailable</string>
+    <string name="string_output45">Line 1 - = Operator Example, Value of c = 21\nLine 2 - += Operator Example, Value of c = 42\nLine 3 - -= Operator Example, Value of c = 21\nLine 4 - *= Operator Example, Value of c = 441\nLine 5 - /= Operator Example, Value of c = 21\nLine 6 - %= Operator Example, Value of c = 11\nLine 7 - (opposite of >)(opposite of >)= Operator Example, Value of c = 44\nLine 8 - >>= Operator Example, Value of c = 11\nLine 9 - &amp;= Operator Example, Value of c = 2\nLine 10 - ^= Operator Example, Value of c = 0\nLine 11 - |= Operator Example, Value of c = 2</string>
+
+    <string name="string_output46">Line 1 - a is not equal to b\nLine 2 - a is not less than b\nLine 3 - a is greater than b\nLine 4 - a is either less than or equal to b\nLine 5 - b is either greater than or equal to b</string>
+    <string name="string_output47">Enter the size of STACK[MAX=100]:10\n\nSTACK OPERATIONS USING ARRAY\n--------------------------------\n1.PUSH\n2.POP\n3.DISPLAY\n4.EXIT\nEnter the Choice:1\nEnter a value to be pushed:12\n\nEnter the Choice:1\nEnter a value to be pushed:24\n\nEnter the Choice:1\nEnter a value to be pushed:98\n\nEnter the Choice:3\n\nThe elements in STACK\n\n98\n24\n12\nPress Next Choice\nEnter the Choice:2\n\nThe popped elements is 98\nEnter the Choice:3\n\nThe elements in STACK\n\n24\n12\nPress Next Choice\nEnter the Choice:4\n\nEXIT POINT</string>
+    <string name="string_output48">1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 1\nInset the element in queue : 10\n1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 1\nInset the element in queue : 15\n1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 1\nInset the element in queue : 20\n1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 1\nInset the element in queue : 30\n1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 2\nElement deleted from queue is : 10\n1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 3\nQueue is :\n15 20 30\n1.Insert element to queue\n2.Delete element from queue\n3.Display all elements of queue\n4.Quit\nEnter your choice : 4</string>
+    <string name="string_output49">Implementation of Stack using Linked List\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 1\n\nEnter the value to insert: 12\nNode is Inserted\n\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 1\n\nEnter the value to insert: 45\nNode is Inserted\n\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 1\n\nEnter the value to insert: 56\nNode is Inserted\n\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 3\nThe stack is\n56--->45--->12--->NULL\n\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 2\nPopped element is :56\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 2\nPopped element is :45\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 3\nThe stack is\n12--->NULL\n\n1. Push\n2. Pop\n3. Display\n4. Exit\n\nEnter your choice : 2\nPopped element is :12\n1. Push\n2. Pop\n3. Display\n4. Exit</string>
+    <string name="string_output50">front element: 10</string>
+
+    <string name="string_output51">Before swap, value of a : 100\nBefore swap, value of b : 200\nAfter swap, value of a : 200\nAfter swap, value of b : 100</string>
+    <string name="string_output52">Address of number variable is fff4\nAddress of p variable is fff4\nValue of p variable is 50</string>
+    <string name="string_output53">Enter the value of n and r\n5\n2\n5C2 = 10\n5P2 = 20</string>
+    <string name="string_output54">Enter two integers\n5\n6\nGreatest common divisor of 5 and 6 = 1\nLeast common multiple of 5 and 6 = 30</string>
+    <string name="string_output55">enter the number=153\narmstrong number\n\nenter the number=5\nnot armstrong number</string>
+    <string name="string_output56">4.000000\n4.000000\n3.000000\n3.000000\n4.000000\n2.645751\n16.000000\n27.000000\n12</string>
+    <string name="string_output57">Area of Triangle is: 32.50000</string>
+    <string name="string_output58">Enter a positive integer: 100\nSum = 5050</string>
+    <string name="string_output59">Value of num is: 21</string>
+    <string name="string_output60">The product of the numbers = 18</string>
+
+    <string name="string_output61">Hello Javatpoint</string>
+    <string name="string_output62">Inside the static function staticFunc()</string>
+    <string name="string_output63">Enter the number to convert: 5\nBinary of Given Number is=101 </string>
+    <string name="string_output64"> Please Enter the Number You want to Convert  :  50\nOctal Number of a Given Number =  62</string>
+    <string name="string_output65">Memory Required : 2 bytes</string>
+    <string name="string_output66">Enter a binary number with the combination of 0s and 1s\n1101\nThe binary number is 1101\nThe decimal number is 13</string>
+    <string name="string_output67">Input-\nEnter a binary number:1111\nOutput-\nOctal Equivalent :17</string>
+    <string name="string_output68">Output:\nEnter the binary number: 10000\nEquivalent hexadecimal value: 10</string>
+    <string name="string_output69">I am learning C programming language.</string>
+    <string name="string_output70">Enter the String : pritesh\nLength of the given string pritesh is : 7</string>
+
+    <string name="string_output71">Input a string\noh boy\nSource string:\t\"oh boy\"\nDestination string:\t\"oh boy\"</string>
+    <string name="string_output72">Enter the first string\njavaTpoint\\n\nEnter the second string\nfamily\nAfter concatenation, the string would look like: javaTpoint\family</string>
+    <string name="string_output73">Enter the first string : samiksha\n\nEnter the second string : samiksha\nstrings are equal</string>
+    <string name="string_output74">Enter a string\nSanfoundry\nThe length of a string is the number of characters in it\nSo, the length of Sanfoundry = 10</string>
+    <string name="string_output75">Enter a string to calculate it\'s length\nProgramming simplified\nLength of entered string is = 22</string>
+    <string name="string_output76">Enter a string to be reversed: AMBULANCE\nAfter the reverse of a string: ECNALUBMA</string>
+    <string name="string_output77">THIS STRING LITERAL IS ARBITRARY\nthis string literal is arbitrary</string>
+    <string name="string_output78">Enter a string : hello world!\nString in Upper Case = HELLO WORLD!</string>
+    <string name="string_output79">Percentage = 93.50%</string>
+    <string name="string_output80">\nEnter basic Salary : 1000\nGross Salary : 1220</string>
+
+    <string name="string_output81">Enter temperature in Celsius: 10\n10.00 Celsius = 50.00 Fahrenheit</string>
+    <string name="string_output82">Enter digit:10\nInvalid Digit</string>
+    <string name="string_output83">This is part of outer switch\nThis is part of inner switch\nExact value of a is : 100\nExact value of b is : 200</string>
+    <string name="string_output84">Enter a number to define the rows in Floyd\'s triangle:\n6\n1\n2  3\n4  5  6\n7  8  9 10\n11 12 13 14 15\n16 17 18 19 20 21</string>
+    <string name="string_output85">Enter any number: 121\nGiven number is a palindrome number</string>
+    <string name="string_output86">#include;\nvoid main( )\n{\nFILE *fp; // file pointer\nchar ch;\nfp = fopen(\"file_handle.c\",\"r\");\nwhile ( 1 )\n{\nch = fgetc ( fp ); //Each character of the file is read and stored in the character file.\nif ( ch == EOF )\nbreak;\nprintf(\"%c\",ch);\n}\nfclose (fp );\n}</string>
+    <string name="string_output87">value of g = 10</string>
+    <string name="string_output88">The random number is: 41\nThe random number is: 18467\nThe random number is: 6334\nThe random number is: 26500</string>
+    <string name="string_output89">Enter the number of rows you wish to see in pascal triangle\n5\n    1\n   1 1\n  1 2 1\n 1 3 3 1\n1 4 6 4 1\nEnter the number of rows you wish to see in pascal triangle</string>
+
+    <string name="string_output90">Sum of the given two numbers = 52</string>
+    <string name="string_output91">Enter the number to check prime:56\nNumber is not prime\n\nEnter the number to check prime:23\nNumber is prime</string>
+    <string name="string_output92">NA</string>
+    <string name="string_output93">Memory is allocated</string>
+    <string name="string_output94">Enter first number: 100\nEnter second number: 200\nMinimum number is: 100</string>
+    <string name="string_output95">Enter a year: 2004\n2004 is a leap year\n\nEnter a year: 1700\n1700 is not a leap year</string>
+    <string name="string_output96">UNAVAILABLE</string>
+    <string name="string_output97">Enter two integers\n20\n40\nBefore Swapping\nFirst variable = 20\nSecond variable = 40\nAfter Swapping\nFirst variable = 40\nSecond variable = 20</string>
+    <string name="string_output98">Before swap a=10 b=20\nAfter swap a=20 b=10</string>
+    <string name="string_output99">Simple Interest is:  51000.000</string>
+    <string name="string_output100">Enter a string : Welcome to Face.\nWelcometoFace.</string>
+
+    <string name="string_output101">Enter a number: 123\nReversed Number: 321</string>
+    <string name="string_output102">Before function call x=100\nBefore adding value inside function num=100\nAfter adding value inside function num=200\nAfter function call x=200</string>
+    <string name="string_output103">1455997310</string>
+
+
+    <!-- Program Topics -->
+    <string name="string_pTops1"><i>Hello World</i></string>
+    <string name="string_pTops2"><b>Addition</b></string>
+    <string name="string_pTops3"><b>Arithmetic operation</b></string>
+    <string name="string_pTops4"><b>if statement</b></string>
+    <string name="string_pTops5"><b>if else statement</b></string>
+    <string name="string_pTops6"><b>Nested if statement</b></string>
+    <string name="string_pTops7"><b>Nested if-else statement</b></string>
+    <string name="string_pTops8"><b>for Loop</b></string>
+    <string name="string_pTops9"><b>while Loop</b></string>
+    <string name="string_pTops10"><b>do-while Loop</b></string>
+
+    <string name="string_pTops11"><b>fibonacci series</b></string>
+    <string name="string_pTops12"><b>Array Example</b></string>
+    <string name="string_pTops13"><b>2D Array Example</b></string>
+    <string name="string_pTops14"><b>smallest number in Array</b></string>
+    <string name="string_pTops15"><b>Max number in Array</b></string>
+    <string name="string_pTops16"><b>Inserting numbers in Array</b></string>
+    <string name="string_pTops17"><b>Merge Arrays</b></string>
+    <string name="string_pTops18"><b>Passing Array to functions</b></string>
+    <string name="string_pTops19"><b>Reverse Array</b></string>
+    <string name="string_pTops20"><b>Reverse num using Array</b></string>
+
+    <string name="string_pTops21"><b>Return Array from pointer</b></string>
+    <string name="string_pTops22"><b>Array of pointer</b></string>
+    <string name="string_pTops23"><b>pointer to Array</b></string>
+    <string name="string_pTops24"><b>Bubble sort</b></string>
+    <string name="string_pTops25"><b>Selection sort</b></string>
+    <string name="string_pTops26"><b>Insertion sort</b></string>
+    <string name="string_pTops27"><b>Merge sort</b></string>
+    <string name="string_pTops28"><b>Quick sort</b></string>
+    <string name="string_pTops29"><b>Matrix Addition</b></string>
+    <string name="string_pTops30"><b>Matrix Subtraction</b></string>
+
+    <string name="string_pTops31"><b>Matrix Multiplication</b></string>
+    <string name="string_pTops32"><b>Transpose Matrix</b></string>
+    <string name="string_pTops33"><b>Complex number using classes</b></string>
+    <string name="string_pTops34"><b>Linear Search</b></string>
+    <string name="string_pTops35"><b>Binary Search</b></string>
+    <string name="string_pTops36"><b>Binary Search using recursion</b></string>
+    <string name="string_pTops37"><b>call by value</b></string>
+    <string name="string_pTops38"><b>call by reference</b></string>
+    <string name="string_pTops39"><b>call by pointer</b></string>
+    <string name="string_pTops40"><b>fibonacci series using recursion</b></string>
+
+    <string name="string_pTops41"><b>factorial using recursion</b></string>
+    <string name="string_pTops42"><b>single inheritance</b></string>
+    <string name="string_pTops43"><b>Multiple inheritance</b></string>
+    <string name="string_pTops44"><b>Hierarchical Inheritance</b></string>
+    <string name="string_pTops45"><b>Assignment operators</b></string>
+    <string name="string_pTops46"><b>Relational Operator</b></string>
+    <string name="string_pTops47"><b>stack using array</b></string>
+    <string name="string_pTops48"><b>queue using array</b></string>
+    <string name="string_pTops49"><b>stack using linkedlist</b></string>
+    <string name="string_pTops50"><b>queue using linkedlist</b></string>
+
+    <string name="string_pTops51"><b>Reference as parameter</b></string>
+    <string name="string_pTops52"><b>pointer values and address</b></string>
+    <string name="string_pTops53"><b>nCr &amp; nPr</b></string>
+    <string name="string_pTops54"><b>LCM &amp; HCF</b></string>
+    <string name="string_pTops55"><b>Armstrong number</b></string>
+    <string name="string_pTops56"><b>mathematical functions</b></string>
+    <string name="string_pTops57"><b>Areas of triangle</b></string>
+    <string name="string_pTops58"><b>sum of n numbers</b></string>
+    <string name="string_pTops59"><b>reference as return value</b></string>
+    <string name="string_pTops60"><b>inline function</b></string>
+
+    <string name="string_pTops61"><b>functions example</b></string>
+    <string name="string_pTops62"><b>static function</b></string>
+    <string name="string_pTops63"><b>Decimal to Binary</b></string>
+    <string name="string_pTops64"><b>Decimal to octal</b></string>
+    <string name="string_pTops65"><b>Decimal to binary bitwise</b></string>
+    <string name="string_pTops66"><b>Binary to decimal</b></string>
+    <string name="string_pTops67"><b>Binary to octal</b></string>
+    <string name="string_pTops68"><b>Binary to hexadecimal</b></string>
+    <string name="string_pTops69"><b>print string</b></string>
+    <string name="string_pTops70"><b>length of a string using pointer</b></string>
+
+    <string name="string_pTops71"><b>copy string</b></string>
+    <string name="string_pTops72"><b>concatenate strings</b></string>
+    <string name="string_pTops73"><b>compare strings</b></string>
+    <string name="string_pTops74"><b>string length without string function</b></string>
+    <string name="string_pTops75"><b>string length using strlen function</b></string>
+    <string name="string_pTops76"><b>reverse string</b></string>
+    <string name="string_pTops77"><b>string to lowercase</b></string>
+    <string name="string_pTops78"><b>string to uppercase</b></string>
+    <string name="string_pTops79"><b>calculate percentage</b></string>
+    <string name="string_pTops80"><b>calculate gross salary</b></string>
+
+    <string name="string_pTops81"><b>temperature conversion fahrenheit &amp; celsius</b></string>
+    <string name="string_pTops82"><b>switch case</b></string>
+    <string name="string_pTops83"><b>nested switch case</b></string>
+    <string name="string_pTops84"><b>floyd\'s triangle </b></string>
+    <string name="string_pTops85"><b>palindrome</b></string>
+    <string name="string_pTops86"><b>file handling</b></string>
+    <string name="string_pTops87"><b>Global &amp; Local Variables</b></string>
+    <string name="string_pTops88"><b>random numbers</b></string>
+    <string name="string_pTops89"><b>pascal\'s traingle</b></string>
+    <string name="string_pTops90"><b>int datatype</b></string>
+
+    <string name="string_pTops91"><b>prime number</b></string>
+    <string name="string_pTops92"><b>pointer to class</b></string>
+    <string name="string_pTops93"><b>null pointer</b></string>
+    <string name="string_pTops94"><b>min number using macro</b></string>
+    <string name="string_pTops95"><b>leap year</b></string>
+    <string name="string_pTops96"><b>this pointer</b></string>
+    <string name="string_pTops97"><b>swapping two numbers</b></string>
+    <string name="string_pTops98"><b>swap 2 numbers using only two variables without the 3rd variable</b></string>
+    <string name="string_pTops99"><b>simple interest</b></string>
+    <string name="string_pTops100"><b>remove space</b></string>
+
+    <string name="string_pTops101"><b>reverse number</b></string>
+    <string name="string_pTops102"><b>reference as return value</b></string>
+    <string name="string_pTops103"><b>date and time</b></string>
+
+    <string name="string_pTops110">Constants</string>
+    <string name="string_pTops111">Declarations</string>
+    <string name="string_pTops112">Boolean Expression</string>
+    <string name="string_pTops113">Break &amp; Continue</string>
+    <string name="string_pTops114">Visibility &amp; Lifetime</string>
+    <string name="string_pTops115">Default Initialization</string>
+    <string name="string_pTops116">Function Prototypes</string>
+    <string name="string_pTops117">Function Philosophy Example Sample</string>
+    <string name="string_pTops118">Separate Compilation</string>
+    <string name="string_pTops119">Character Input/Output</string>
+    <string name="string_pTops120">Reading Lines</string>
+
+    <string name="string_pTops121">Reading numbers</string>
+    <string name="string_pTops122">Order of Evaluation</string>
+    <string name="string_pTops123">Data Types</string>
+    <string name="string_pTops124">File Inclusion</string>
+    <string name="string_pTops125">Macro Definition &amp; Substitution</string>
+    <string name="string_pTops126">Conditional Compilation</string>
+    <string name="string_pTops127">Pointer Substraction</string>
+    <string name="string_pTops128">Equivalence between Pointers and Arrays</string>
+    <string name="string_pTops129">Pointers as an argument</string>
+    <string name="string_pTops130">Breaking a line into words</string>
+
+    <string name="string_pTops131">Memory with malloc</string>
+    <string name="string_pTops132">Freeing memory</string>
+    <string name="string_pTops133">Reallocating memory blocks</string>
+    <string name="string_pTops134">Pointer safety</string>
+    <string name="string_pTops135">fopen() function example sample</string>
+    <string name="string_pTops136">I/O with file pointers</string>
+    <string name="string_pTops137">Predefined Streams</string>
+    <string name="string_pTops138">Closing Files</string>
+    <string name="string_pTops139">Reading a data file.</string>
+    <string name="string_pTops140">Operators</string>
+
+    <string name="string_pTops141">Cpreprocessors</string>
+    <string name="string_pTops142">Standard Library Function</string>
+    <string name="string_pTops143">Increment and Decrement Operators(i.e. ++, --)</string>
+
+
+    <!--  C programs  -->
+
+    <!--    <string name="string_program1"></string>-->
+    <!--    <string name="string_program2"></string>-->
+    <!--    <string name="string_program3"></string>-->
+    <!--    <string name="string_program4"></string>-->
+    <!--    <string name="string_program5"></string>-->
+    <!--    <string name="string_program6"></string>-->
+    <!--    <string name="string_program7"></string>-->
+    <!--    <string name="string_program8"></string>-->
+    <!--    <string name="string_program9"></string>-->
+    <!--    <string name="string_program10"></string>-->
+
+    <!--    <string name="string_program11"></string>-->
+    <!--    <string name="string_program12"></string>-->
+    <!--    <string name="string_program13"></string>-->
+    <!--    <string name="string_program14"></string>-->
+    <!--    <string name="string_program15"></string>-->
+    <!--    <string name="string_program16"></string>-->
+    <!--    <string name="string_program17"></string>-->
+    <!--    <string name="string_program18"></string>-->
+    <!--    <string name="string_program19"></string>-->
+    <!--    <string name="string_program20"></string>-->
+
+    <!--    <string name="string_program21"></string>-->
+    <!--    <string name="string_program22"></string>-->
+    <!--    <string name="string_program23"></string>-->
+    <!--    <string name="string_program24"></string>-->
+    <!--    <string name="string_program25"></string>-->
+    <!--    <string name="string_program26"></string>-->
+    <!--    <string name="string_program27"></string>-->
+    <!--    <string name="string_program28"></string>-->
+    <!--    <string name="string_program29"></string>-->
+    <!--    <string name="string_program30"></string>-->
+
+    <!--    <string name="string_program31"></string>-->
+    <!--    <string name="string_program32"></string>-->
+    <!--    <string name="string_program33"></string>-->
+    <!--    <string name="string_program34"></string>-->
+    <!--    <string name="string_program35"></string>-->
+    <!--    <string name="string_program36"></string>-->
+    <!--    <string name="string_program37"></string>-->
+    <!--    <string name="string_program38"></string>-->
+    <!--    <string name="string_program39"></string>-->
+    <!--    <string name="string_program40"></string>-->
+
+    <!--    <string name="string_program41"></string>-->
+    <!--    <string name="string_program42"></string>-->
+    <!--    <string name="string_program43"></string>-->
+    <!--    <string name="string_program44"></string>-->
+    <!--    <string name="string_program45"></string>-->
+    <!--    <string name="string_program46"></string>-->
+    <!--    <string name="string_program47"></string>-->
+    <!--    <string name="string_program48"></string>-->
+    <!--    <string name="string_program49"></string>-->
+    <!--    <string name="string_program50"></string>-->
+
+    <!--    <string name="string_program51"></string>-->
+    <!--    <string name="string_program52"></string>-->
+    <!--    <string name="string_program53"></string>-->
+    <!--    <string name="string_program54"></string>-->
+    <!--    <string name="string_program55"></string>-->
+    <!--    <string name="string_program56"></string>-->
+    <!--    <string name="string_program57"></string>-->
+    <!--    <string name="string_program58"></string>-->
+    <!--    <string name="string_program59"></string>-->
+    <!--    <string name="string_program60"></string>-->
+
+    <!--    <string name="string_program61"></string>-->
+    <!--    <string name="string_program62"></string>-->
+    <!--    <string name="string_program63"></string>-->
+    <!--    <string name="string_program64"></string>-->
+    <!--    <string name="string_program65"></string>-->
+    <!--    <string name="string_program66"></string>-->
+    <!--    <string name="string_program67"></string>-->
+    <!--    <string name="string_program68"></string>-->
+    <!--    <string name="string_program69"></string>-->
+    <!--    <string name="string_program70"></string>-->
+    <!--    <string name="string_program71"></string>-->
+    <!--    <string name="string_program72"></string>-->
+    <!--    <string name="string_program73"></string>-->
+    <!--    <string name="string_program74"></string>-->
+    <!--    <string name="string_program75"></string>-->
+    <!--    <string name="string_program76"></string>-->
+    <!--    <string name="string_program77"></string>-->
+    <!--    <string name="string_program78"></string>-->
+    <!--    <string name="string_program79"></string>-->
+    <!--    <string name="string_program80"></string>-->
+
+    <!--    <string name="string_program81"></string>-->
+    <!--    <string name="string_program82"></string>-->
+    <!--    <string name="string_program83"></string>-->
+    <!--    <string name="string_program84"></string>-->
+    <!--    <string name="string_program85"></string>-->
+    <!--    <string name="string_program86"></string>-->
+    <!--    <string name="string_program87"></string>-->
+    <!--    <string name="string_program88"></string>-->
+    <!--    <string name="string_program89"></string>-->
+    <!--    <string name="string_program90"></string>-->
+
+    <!--    <string name="string_program91"></string>-->
+    <!--    <string name="string_program92"></string>-->
+    <!--    <string name="string_program93"></string>-->
+    <!--    <string name="string_program94"></string>-->
+    <!--    <string name="string_program95"></string>-->
+    <!--    <string name="string_program96"></string>-->
+    <!--    <string name="string_program97"></string>-->
+    <!--    <string name="string_program98"></string>-->
+    <!--    <string name="string_program99"></string>-->
+    <!--    <string name="string_program100"></string>-->
+
+    <!--    <string name="string_program101"></string>-->
+    <!--    <string name="string_program102"></string>-->
+    <!--    <string name="string_program103"></string>-->
+
+    <!--    <string name="string_program110"></string>-->
+    <!--    <string name="string_program111"></string>-->
+    <!--    <string name="string_program112"></string>-->
+    <!--    <string name="string_program113"></string>-->
+    <!--    <string name="string_program114"></string>-->
+    <!--    <string name="string_program115"></string>-->
+    <!--    <string name="string_program116"></string>-->
+    <!--    <string name="string_program117"></string>-->
+    <!--    <string name="string_program118"></string>-->
+    <!--    <string name="string_program119"></string>-->
+    <!--    <string name="string_program120"></string>-->
+    <!--    <string name="string_program121"></string>-->
+    <!--    <string name="string_program122"></string>-->
+    <!--    <string name="string_program123"></string>-->
+    <!--    <string name="string_program124"></string>-->
+    <!--    <string name="string_program125"></string>-->
+    <!--    <string name="string_program126"></string>-->
+    <!--    <string name="string_program127"></string>-->
+    <!--    <string name="string_program128"></string>-->
+    <!--    <string name="string_program129"></string>-->
+    <!--    <string name="string_program130"></string>-->
+    <!--    <string name="string_program131"></string>-->
+    <!--    <string name="string_program132"></string>-->
+    <!--    <string name="string_program133"></string>-->
+    <!--    <string name="string_program134"></string>-->
+    <!--    <string name="string_program135"></string>-->
+    <!--    <string name="string_program136"></string>-->
+    <!--    <string name="string_program137"></string>-->
+    <!--    <string name="string_program138"></string>-->
+    <!--    <string name="string_program139"></string>-->
+    <!--    <string name="string_program140"></string>-->
+    <!--    <string name="string_program141"></string>-->
+    <!--    &lt;!&ndash; Square root using sqrt() function &ndash;&gt;-->
+    <!--    <string name="string_program142"></string>-->
+    <!--    <string name="string_program143"></string>-->
+
+
+    <string name="string_output110">The value of PI is: 3.140000</string>
+    <string name="string_output111">The initial value of c is 0\nThe sum of alpha and beta is 30</string>
+    <string name="string_output112">The value of x is false</string>
+    <string name="string_output113">Break code: \n0\n1\n2\n3\n\nContinue code:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n</string>
+    <string name="string_output114">Value of x is 20\nValue of x is 50</string>
+    <string name="string_output115">Default value of static variable : 0\nDefault value of non-static variable : 0</string>
+    <string name="string_output116">8</string>
+    <string name="string_output117">This is a prgram to find a/b\nCallback recieved :\nRecieved values...validating\nCallback recieved :\nValidation complete, performing division\nCallback recieved :\nDivision complete, returning value\n\ndivide returned [2.000000]</string>
+    <string name="string_output118">N.A.</string>
+    <string name="string_output119">Enter a value : seven 7\nYou entered: seven 7</string>
+    <string name="string_output120">line[000001]: This is a file\nline[000002]:   which has\nline[000003]: multiple lines\nline[000004]:     with various indentation,\nline[000005]: blank lines\nline[000006]:\nline[000007]:\nline[000008]:\nline[000009]: a really long line to show that the line will be counted as two lines if the le\nline[000010]: ngth of a line is too long to fit in the buffer it has been given,\nline[000011]:  and punctuation at the end of the lines.\nline[000012]:</string>
+    <string name="string_output121">7\n\nDecimal Number is : 7\nFloating-Point Number is : 0.000000\nReturn Value: 1</string>
+    <string name="string_output122">Answer with order of evaluation: 8\nAnswer without order of evaluation: 7</string>
+    <string name="string_output123">Hello World!\nHello! I am a character. My value is G and my size is 1 byte.\nHello! I am an integer. My value is 1 and my size is 4  bytes.\nHello! I am a double floating point variable. My value is 3.140000 and my size i\ns 8 bytes.\nBye! See you soon. :)</string>
+    <string name="string_output124">50.27</string>
+    <string name="string_output125">enter b element:4\n16</string>
+    <string name="string_output126">Hello I am here..\nR u There</string>
+    <string name="string_output127">Pointer ptr1 before Increment: 0x7ffefa9c5704\nPointer ptr1 after Increment: 0x7ffefa9c5708\n\nPointer ptr1 before Decrement: 0x7ffefa9c5708\nPointer ptr1 after Decrement: 0x7ffefa9c5704 </string>
+    <string name="string_output128">t t\nn n</string>
+    <string name="string_output129">m = 10\nn = 20\n\nAfter Swapping:\n\nm = 20\nn = 10\n\n</string>
+    <string name="string_output130"> Split string by space into words :\n---------------------------------------\nInput  a string : this is a test string\n\nStrings or words after split by space are :\nthis\nis\na\ntest\nstring </string>
+    <string name="string_output131">Value of the 6th integer is 480</string>
+    <string name="string_output132">Enter number of elements: 3\nEnter elements: 100\n20\n36\nSum = 156</string>
+    <string name="string_output133">Enter elements of array : 3 34 28 8\nSum : 73\nEnter elements of array : 3 28 33 8 10 15\nSum : 145</string>
+    <string name="string_output134">The values are: 8, 10</string>
+    <string name="string_output135">Welcome to GeeksforGeeks</string>
+    <string name="string_output136">Not Available</string>
+    <string name="string_output137">Not Available</string>
+    <string name="string_output138">Not Available</string>
+    <string name="string_output139">GeeksforGeeks | A computer science portal for geeks\n\n//Output    \n\n   C:\Users\Rashi\Desktop>gcc  fgetcexp.c -o fgetcexp\n\nC:\USers\Rashi\Desktop>fgetcexp\ncontent of this file are\nGeeksforGeeks | A computer science portal for geeks</string>
+    <string name="string_output140">a+b = 13\na-b = 5\na*b = 36\na/b = 2\nRemainder when a divided by b=1</string>
+    <string name="string_output141">File :test.c\nDate :Jun 2 2012\nTime :03:36:24\nLine :8\nANSI :1</string>
+    <string name="string_output142">Enter a number: 12\nSquare root of 12.00 = 3.46</string>
+    <string name="string_output143">Input the value of X: 10\nInput the value of Y: 15\nInput the value of Z: 20\n\nThe updated value of the X: 11\nThe updated value of the Y: 16\nThe updated value of the Z: 21</string>
+    <string name="string_output144"></string>
+    <string name="string_output145"></string>
+    <string name="string_output146"></string>
+
+
+    <string name="string_faqQuestions1">1. Who is the father of the C-language\?</string>
+    <string name="string_faqQuestions2">2. When and Where C-language is developed\?</string>
+    <string name="string_faqQuestions3">3. Why is C is recognized as the mother language\?</string>
+    <string name="string_faqQuestions4">4. Explain the features of C-language\?</string>
+    <string name="string_faqQuestions5">5. What are header files\?</string>
+    <string name="string_faqQuestions6">6. What are the basic data types\?</string>
+    <string name="string_faqQuestions7">7. What is a variable\?</string>
+    <string name="string_faqQuestions8">8. What is the scope of the variable\?</string>
+    <string name="string_faqQuestions9">9. What are local variables\?</string>
+    <string name="string_faqQuestions10">10. State the differences between Global and Static Variables</string>
+    <string name="string_faqQuestions11">11. What are Reserved Keywords\?</string>
+    <string name="string_faqQuestions12">12. What is a Preprocessor\?</string>
+    <string name="string_faqQuestions13">13. What are tokens in C-Language\?</string>
+    <string name="string_faqQuestions14">14. Define and explain the types of Loops.</string>
+    <string name="string_faqQuestions15">15. Between the parenthesises of a For Loop, what are the things you shouldn\'t forget writing while using.</string>
+    <string name="string_faqQuestions16">16. Define Static functions.</string>
+    <string name="string_faqQuestions17">17. Explain Jumping statements</string>
+    <string name="string_faqQuestions18">18. Differentiate between ++a &amp; a++.</string>
+    <string name="string_faqQuestions19">19. Explain the difference between the \‘=\’ and \‘==\’ operator\?</string>
+    <string name="string_faqQuestions20">20. What do you mean by modulus operator\?</string>
+    <string name="string_faqQuestions21">21. Explain the use of Curly Braces.</string>
+    <string name="string_faqQuestions22">22. Define Pointer.</string>
+    <string name="string_faqQuestions23">23. Explain the difference between \n(i) Character &amp; Character pointer\n(ii) Integer and Integer pointer</string>
+    <string name="string_faqQuestions24">24. Differentiate between Call By Value and Call By Reference.</string>
+    <string name="string_faqQuestions25">25. Explain pointer on pointer.</string>
+    <string name="string_faqQuestions26">26. Define the purpose of void keyword.</string>
+    <string name="string_faqQuestions27">27. What does it mean by void keyword\?</string>
+    <string name="string_faqQuestions28">28. Find out the error in the statement</string>
+    <string name="string_faqQuestions29">29. Explain Recursion in C</string>
+    <string name="string_faqQuestions30">30. When would the auto </string>
+    <string name="string_faqQuestions31">31. What is the purpose of typedef keyword\?</string>
+    <string name="string_faqQuestions32">32. Explain dangling keywords.</string>
+    <string name="string_faqQuestions33">33. State out the difference between Static and Dynamic Memory Allocation</string>
+    <string name="string_faqQuestions34">34. Explain Flowchart and Modular programming.</string>
+    <string name="string_faqQuestions35">35. Point out the difference between actual parameters and actual parameters.</string>
+    <string name="string_faqQuestions36">36. State the purpose of printf() and scanf().</string>
+    <string name="string_faqQuestions37">37. Differentiate between getch() and getche().</string>
+    <string name="string_faqQuestions38">38. Can we compile &amp; execute the C-Program without main() \?</string>
+    <string name="string_faqQuestions39">39. Explain runtime errors.</string>
+    <string name="string_faqQuestions40">40. Explain the register keyword &amp; explain the dynamic memory allocation functions.</string>
+
+
+    <string name="string_faqAnswers1"><b>Dennis Ritchie</b></string>
+    <string name="string_faqAnswers2"><b>It was developed in 1972 at the bell laboratories of AT&amp;T.</b></string>
+    <string name="string_faqAnswers3"><b>Most of the compiler and JVMs are written in C language.</b></string>
+    <string name="string_faqAnswers4"><b>Simple to learn as program parts can be broken into pieces.\nIt is portable. The one program can be run on any machine.\nIt has a powerful set of data types and operators due to which works faster.\nIt is a combination of both low-level language and high-level language.</b></string>
+    <string name="string_faqAnswers5"><b>Header files contain C functions declaration and macros. It is used with .h extension. </b></string>
+    <string name="string_faqAnswers6"><b>Short, int, long, float, and double</b></string>
+    <string name="string_faqAnswers7"><b>The variable is a self-explanatory word meaning changing in value. </b></string>
+    <string name="string_faqAnswers8"><b>Scope of the variable means where the variables are directly accessible. </b></string>
+    <string name="string_faqAnswers9"><b>Variables that are declared inside a block of curly braces are known as local variables. These variables are accessible only inside the set of curly braces.</b></string>
+    <string name="string_faqAnswers10"><b>Variables that are declared in the program outside blocks and functions are known as global variables. These are accessible in the complete program are known as global variables.\n\nA variable that is declared with a static keyword is known as a static variable. The scope of static variables is accessible only in the block of the set where it is declared.</b></string>
+    <string name="string_faqAnswers11"><b>Reserved Keywords are those words that have a predefined meaning in the language.</b></string>
+    <string name="string_faqAnswers12"><b>It is a built-in predefined function and macros that act as a directive to the compiler and it gets executed before the exact execution of the program.</b></string>
+    <string name="string_faqAnswers13"><b>Keywords, Constants, Strings, Operators, Identifiers, and special symbols used in C-language are known as Tokens. </b></string>
+    <string name="string_faqAnswers14"><b>Loops are nothing but contain a set of statements that will execute again until the given condition is true.\n\nThere are three types of loops:\n<i>For loop</i>: It is an open-ended loop.\n<i>while loop</i>: It is an entry control loop.\n<i>do-while loop</i>: It is an exit control loop. In the do-while loop, the set of statements will execute atleast once. </b></string>
+    <string name="string_faqAnswers15"><b>The two semi-colons between the two parenthesises.</b></string>
+    <string name="string_faqAnswers16"><b>Static functions are those functions that are declared with the static keyword.</b></string>
+    <string name="string_faqAnswers17"><b>Jumping statements are those which interrupt the execution of the normal flow. There are two types of Jumping Statements.\n\nbreak statement: When a break statement is encountered inside the loop in the program the control will come out from the loop and continue with the statement followed by the loop.\ncontinue statement: When continue statement is encountered inside the loop. It will skip the statement after that and control goes back to the conditions stated.</b></string>
+    <string name="string_faqAnswers18"><b>++a is the prefix increment operator whose value is increased by 1 first then the operation is performed and a++ is the postfix increment operator whose value increased by 1 after the operation is performed.</b></string>
+    <string name="string_faqAnswers19"><b>\‘=\’ is an assignment operator which is used to assign the value in the variable and \‘==\’ is a comparison operator which is used to check LHS is equal to RHS or not.</b></string>
+    <string name="string_faqAnswers20"><b>The modulus operator gives the remainder of the division.</b></string>
+    <string name="string_faqAnswers21"><b>They are used to signify the start and end of a series of statements.</b></string>
+    <string name="string_faqAnswers22"><b>The pointer is nothing but a variable that refers to the address of the value.</b></string>
+    <string name="string_faqAnswers23"><b> - size of the character is equal to 1 byte.\n - size of the integer is equal to 4 bytes.\n - size of the integer pointer and character pointer is 4 bytes and 8 bytes.</b></string>
+    <string name="string_faqAnswers24"><b>1. We pass the copy of the values to the functions if there is no alteration in the original values. This is known as call by Value. \nWhereas, We pass the copy of values to the functions, if original values are altered then it is known as call by reference.\n\n2. In call by value, actual and formals arguments are stored in different memory locations. Whereas, in call by reference, actual and formal arguments are stored in the same memory location.</b></string>
+    <string name="string_faqAnswers25"><b>The pointer variable holds the address of another pointer variable which is holding the data value.</b></string>
+    <string name="string_faqAnswers26"><b>\“Void\” is used where we directly display the output from the function and returning any value to the called statement. In simple words, if you want to show the output from the function then use the void keyword.</b></string>
+    <string name="string_faqAnswers27"><b>Compound statements are made up of two or more program statements coupled to execute together.</b></string>
+    <string name="string_faqAnswers28"><b>scanf(\“%d\”,i)\n\n\nAnswer may be:\nIn the above statement, we are taking the input from the user. An ampersand is placed before i variable. The correct syntax of taking an input is:\nscanf(\“%d\”, &amp;i);</b></string>
+    <string name="string_faqAnswers29"><b>When a function calls itself repeatedly until the provided condition comes out to be wrong is known as recursion. </b></string>
+    <string name="string_faqAnswers30"><b>auto keyword refers to the automatic storage duration. The function\’s local variables are by default auto. It is hardly used in programs.</b></string>
+    <string name="string_faqAnswers31"><b>typedef keyword is used to simplify the complicated declaration of the type. We can say, it is used to alias the existing type.</b></string>
+    <string name="string_faqAnswers32"><b>A pointer pointing to the address location of the variable. Later, the variable is deleted from the location but still, the pointer is still pointing to the same location is known as Dangling Pointer.</b></string>
+    <string name="string_faqAnswers33"><b>In static memory allocation, The memory is allocated during compile time in static memory allocation. We cannot increase the size during the execution of the program. It occupies so much memory as compare to dynamic memory allocation. Example: Array.\n\nThe memory is allocated during run time in the case of dynamic memory allocation. We can increase the size during the execution of the program. It occupies less memory as compared to static memory allocation. \nExample: Linked list</b></string>
+    <string name="string_faqAnswers34"><b>A flowchart is a pictorial representation of step by step method of solving a problem.\n\nModular programming means dividing the entire program into sub-programs to achieve the given task.</b></string>
+    <string name="string_faqAnswers35"><b><i>Actual parameters</i> are those which are sent from the main function to the calling function.\n<i>Formal parameters</i> are those parameters is defined in the brackets of the calling function.</b></string>
+    <string name="string_faqAnswers36"><b><i>printf()</i>: It is used to print the output on the screen.\n<i>scanf()</i>: It is used to take the input from the user.</b></string>
+    <string name="string_faqAnswers37"><b><i>getch()</i>: It read characters from the keyboard and it does not use any buffer. It will not display any data on the screen.\n<i>getche()</i>: It read characters from the keyboard and it uses a buffer. It will display the data on the screen.</b></string>
+    <string name="string_faqAnswers38"><b>Yes, the compilation is possible without main but we cannot execute the program.</b></string>
+    <string name="string_faqAnswers39"><b><u>Run-time errors</u> occur during the execution of the program.\n\nExample of run-time error: when we are trying to divide any number by zero.</b></string>
+    <string name="string_faqAnswers40"><b>When the variable is in use so much then the variable must be declared as a register. The CPU register will allocate the space for the variable so that we can operate on the variable easily.</b></string>
+
+
+    <!--  Lessons and Sub chapters  -->
+    <string name="string_mCs1"><b>1. Introduction</b></string>
+    <string name="string_mCs2"><b>2. Basic Data Types and Operators</b></string>
+    <string name="string_mCs3"><b>3. Statements and Control Flow</b></string>
+    <string name="string_mCs4"><b>4. More about Declarations\n      (and Initialization)</b></string>
+    <string name="string_mCs5"><b>5. Functions and Program Structure</b></string>
+    <string name="string_mCs6"><b>6. Basic I/O</b></string>
+    <string name="string_mCs7"><b>7. More Operators</b></string>
+    <string name="string_mCs8"><b>8. Strings</b></string>
+    <string name="string_mCs9"><b>9. The C Preprocessor</b></string>
+    <string name="string_mCs10"><b>10. Pointers</b></string>
+    <string name="string_mCs11"><b>11. Memory Allocation</b></string>
+    <string name="string_mCs12"><b>12. Input and Output</b></string>
+    <string name="string_mCs13"><b>13. Reading the Command Line</b></string>
+    <string name="string_mCs14"><b>14. What\'s Next</b></string>
+
+    <!-- 1 -->
+    <string name="string_sCs11"><b>1.1. <u>Introduction</u></b></string>
+    <string name="string_sCs12"><b>1.2. <u>A First Example</u></b></string>
+    <string name="string_sCs13"><b>1.3. <u>A Second Example</u></b></string>
+    <string name="string_sCs14"><b>1.4. <u>Program Structure</u></b></string>
+    <!-- 2 -->
+    <string name="string_sCs21"><b>2.1. <u>Data Types &amp; Operators</u></b></string>
+    <string name="string_sCs22"><b>2.2. <u>Types</u></b></string>
+    <string name="string_sCs23"><b>2.3. <u>Constants</u></b></string>
+    <string name="string_sCs24"><b>2.4. <u>Declarations</u></b></string>
+    <string name="string_sCs25"><b>2.5. <u>Variable Names</u></b></string>
+    <string name="string_sCs26"><b>2.6. <u>Arithmetic Operators</u></b></string>
+    <string name="string_sCs27"><b>2.7. <u>Assignment Operators</u></b></string>
+    <string name="string_sCs28"><b>2.8. <u>Function Calls</u></b></string>
+    <!-- 3 -->
+    <string name="string_sCs31"><b>3.1. <u>Statements &amp; Control Flow</u></b></string>
+    <string name="string_sCs32"><b>3.2. <u>Expression Statements </u></b></string>
+    <string name="string_sCs33"><b>3.3. <u>If Statements</u></b></string>
+    <string name="string_sCs34"><b>3.4. <u>Boolean Statements</u></b></string>
+    <string name="string_sCs35"><b>3.5. <u>While Loops</u></b></string>
+    <string name="string_sCs36"><b>3.6. <u>For Loops</u></b></string>
+    <string name="string_sCs37"><b>3.7. <u>Break and Continue</u></b></string>
+    <!-- 4 -->
+    <string name="string_sCs41"><b>4.1. <u>Arrays</u></b></string>
+    <string name="string_sCs42"><b>4.2. <u>Visibility &amp; Lifetime</u> (<i>Global Variables</i>, etc.) </b></string>
+    <string name="string_sCs43"><b>4.3. <u>Default Initialization</u></b></string>
+    <string name="string_sCs44"><b>4.4. <u>Examples</u></b></string>
+    <!-- 5 -->
+    <string name="string_sCs51"><b>5.1. <u>Function Basics</u></b></string>
+    <string name="string_sCs52"><b>5.2. <u>Function Prototypes</u></b></string>
+    <string name="string_sCs53"><b>5.3. <u>Function Philosophy</u></b></string>
+    <string name="string_sCs54"><b>5.4. <u>Separate Compilation\n- Logistics</u></b></string>
+    <!-- 6 -->
+    <string name="string_sCs61"><b>6.1. <u>printf</u></b></string>
+    <string name="string_sCs62"><b>6.2. <u>Character Input and Output</u></b></string>
+    <string name="string_sCs63"><b>6.3. <u>Reading Inputs</u></b></string>
+    <string name="string_sCs64"><b>6.4. <u>Reading Numbers</u></b></string>
+    <!-- 7 -->
+    <string name="string_sCs71"><b>7.1. <u>Assignment Operators</u></b></string>
+    <string name="string_sCs72"><b>7.2. <u>Increment and Decrement Operators</u></b></string>
+    <string name="string_sCs73"><b>7.3. <u>Order of Evaluation</u></b></string>
+    <!-- 8 -->
+    <string name="string_sCs8x"><b> -  <u>Definition</u> \n\n -  <u>Data Type</u> \n\n -  <u>Example</u> \n\n -  <u>Declaration</u> \n\n -  <u>Initialization</u> \n\n -  <u>Uses</u></b></string>
+    <!-- 9 -->
+    <string name="string_sCs91"><b>9.1. <u>File Inclusion</u></b></string>
+    <string name="string_sCs92"><b>9.2. <u>Macro Definition and Substitution</u></b></string>
+    <string name="string_sCs93"><b>9.3. <u>Conditional Compilation</u></b></string>
+
+    <!-- 10 -->
+    <string name="string_sCs101"><b>10.1. <u>Basic Pointer Operations</u></b></string>
+    <string name="string_sCs102"><b>10.2. <u>Pointers and Arrays:  <i>Pointer Arithmetic</i></u></b></string>
+    <string name="string_sCs103"><b>10.3. <u>Pointer Subtraction and Comparison</u></b></string>
+    <string name="string_sCs104"><b>10.4. <u>Null Pointers</u></b></string>
+    <string name="string_sCs105"><b>10.5. <u>Equivalence between Pointers and Arrays</u></b></string>
+    <string name="string_sCs106"><b>10.6. <u>Arrays &amp; Pointers as Function Arguments </u></b></string>
+    <string name="string_sCs107"><b>10.7. <u>Strings</u> </b></string>
+    <string name="string_sCs108"><b>10.8. <u>Example: Breaking a line into \"Words\"</u></b></string>
+    <!-- 11 -->
+    <string name="string_sCs111"><b>11.1. <u>Allocating Memory with</u> <u>malloc</u></b></string>
+    <string name="string_sCs112"><b>11.2. <u>Freeing Memory</u></b></string>
+    <string name="string_sCs113"><b>11.3. <u>Reallocating Memory Blocks</u></b></string>
+    <string name="string_sCs114"><b>11.4. <u>Pointer Safety</u></b></string>
+    <!-- 12 -->
+    <string name="string_sCs121"><b>12.1. <u>File Pointers and</u> <i>fopen</i></b></string>
+    <string name="string_sCs122"><b>12.2. <u>I/O with File Pointers</u></b></string>
+    <string name="string_sCs123"><b>12.3. <u>Predefined Streams</u></b></string>
+    <string name="string_sCs124"><b>12.4. <u>Closing Files</u></b></string>
+    <string name="string_sCs125"><b>12.5. <u>Example: Reading a data file</u></b></string>
+    <!-- 13 -->
+    <string name="string_sCs13x"><b><u>Description &amp; Explanation On<i> Comment Line</i></u></b></string>
+    <!-- 14 -->
+    <string name="string_sCs141"><b>14.1. <u>Types &amp; Declarations</u></b></string>
+    <string name="string_sCs142"><b>14.2. <u>Operators</u></b></string>
+    <string name="string_sCs143"><b>14.3. <u>Statements</u></b></string>
+    <string name="string_sCs144"><b>14.4. <u>Functions</u></b></string>
+    <string name="string_sCs145"><b>14.5. <u>C Preprocessor</u></b></string>
+    <string name="string_sCs146"><b>14.6. <u>Standard Library Functions</u></b></string>
+
+
+    <!--  Quizes   -->
+    <!--  Quiz question: Easy -->
+    <string name="Eoption1_1">A.	rem = fmod(3.14, 2.1);</string>
+    <string name="Eoption2_1">B.	rem = 3.14 % 2.1;</string>
+    <string name="Eoption3_1">C.	rem = modf(3.14, 2.1);</string>
+    <string name="Eoption4_1">D.	Remainder cannot be obtain in floating point division.</string>
+
+    <string name="Eoption1_2">A.  Internal and External</string>
+    <string name="Eoption2_2">B.  External and None</string>
+    <string name="Eoption3_2">C.  External, Internal and None</string>
+    <string name="Eoption4_2">D.  Internal</string>
+
+    <string name="Eoption1_3">A.	* (asterisk)</string>
+    <string name="Eoption2_3">B.	| (pipeline)</string>
+    <string name="Eoption3_3">C.	- (hyphen)</string>
+    <string name="Eoption4_3">D.	_ (underscore)</string>
+
+    <string name="Eoption1_4">A.    No difference, except extern int fun(); is probably in another file</string>
+    <string name="Eoption2_4">B.    Both are identical</string>
+    <string name="Eoption3_4">C.	int fun(); is overrided with extern int fun();</string>
+    <string name="Eoption4_4">D.	None of these</string>
+
+    <string name="Eoption1_5">A.    floor(1.66)</string>
+    <string name="Eoption2_5">B.    ceil(1.66)</string>
+    <string name="Eoption3_5">C.    roundup(1.66)</string>
+    <string name="Eoption4_5">D.    roundto(1.66)</string>
+
+    <string name="Eoption1_6">A.    = * / % + -</string>
+    <string name="Eoption2_6">B.    / * % - + =</string>
+    <string name="Eoption3_6">C.    * / % + - =</string>
+    <string name="Eoption4_6">D.    * % / - + =</string>
+
+    <string name="Eoption1_7">A.	/ + * -</string>
+    <string name="Eoption2_7">B.	* - / +</string>
+    <string name="Eoption3_7">C.	+ - / *</string>
+    <string name="Eoption4_7">D.	/ * + -</string>
+
+    <string name="Eoption1_8">A.	a>b \? c=30 : c=40;</string>
+    <string name="Eoption2_8">B.	a>b \? c=30;</string>
+    <string name="Eoption3_8">C.	max = a>b \? a>c\?a:c:b>c\?b:c</string>
+    <string name="Eoption4_8">D.	return (a>b)\?(a:b)</string>
+
+    <string name="Eoption1_9">A.	f1, f2, f3</string>
+    <string name="Eoption2_9">B.    Order may vary from compiler to compiler</string>
+    <string name="Eoption3_9">C.  	f3, f2, f1</string>
+    <string name="Eoption4_9">D.	None of above</string>
+
+    <string name="Eoption1_10">A.   1, 2, 3</string>
+    <string name="Eoption2_10">B.	1, 3</string>
+    <string name="Eoption3_10">C.	2, 4</string>
+    <string name="Eoption4_10">D.   1, 2</string>
+
+    <string name="Eoption1_11">A.   	1234</string>
+    <string name="Eoption2_11">B.       2134</string>
+    <string name="Eoption3_11">C.	    4321</string>
+    <string name="Eoption4_11">D.	    3214</string>
+
+    <string name="Eoption1_12">A.	    switch</string>
+    <string name="Eoption2_12">B.       go back</string>
+    <string name="Eoption3_12">C.   	return</string>
+    <string name="Eoption4_12">D.	    goto</string>
+
+    <string name="Eoption1_13">A.	1. KR Notation\n2.   \tANSI Notation</string>
+    <string name="Eoption2_13">B.	1. Pre ANSI C Notation\n2.   \tKR Notation</string>
+    <string name="Eoption3_13">C.   1. ANSI Notation\n2.  \tPre ANSI Notation</string>
+    <string name="Eoption4_13">D.   1. ANSI Notation\n2.  \tKR Notation</string>
+
+    <string name="Eoption1_14">A.	Infinite times</string>
+    <string name="Eoption2_14">B.	32767 times</string>
+    <string name="Eoption3_14">C.   Till stack overflows</string>
+    <string name="Eoption4_14">D.   65535 times</string>
+
+    <string name="Eoption1_15">A.   Representation of void pointer</string>
+    <string name="Eoption2_15">B.   Representation of NULL pointer</string>
+    <string name="Eoption3_15">C.	Error</string>
+    <string name="Eoption4_15">D.	None of above</string>
+
+    <string name="Eoption1_16">A.   char *p = (char*)malloc(100);</string>
+    <string name="Eoption2_16">B.	char *p = (char) malloc(100);</string>
+    <string name="Eoption3_16">C.   char p = *malloc(100);</string>
+    <string name="Eoption4_16">D.	char *p = (char *)(malloc*)(100);</string>
+
+    <string name="Eoption1_17">A.	stdio.h</string>
+    <string name="Eoption2_17">B.   stddef.h</string>
+    <string name="Eoption3_17">C.   math.h</string>
+    <string name="Eoption4_17">D.   stdio.h and stddef.h</string>
+
+    <string name="Eoption1_18">A.   near=2 far=4 huge=8</string>
+    <string name="Eoption2_18">B.	near=4 far=8 huge=8</string>
+    <string name="Eoption3_18">C.   near=2 far=4 huge=4</string>
+    <string name="Eoption4_18">D.   near=4 far=4 huge=8</string>
+
+    <string name="Eoption1_19">A.	.</string>
+    <string name="Eoption2_19">B.   -></string>
+    <string name="Eoption3_19">C.	*</string>
+    <string name="Eoption4_19">D.   &amp;</string>
+
+    <string name="Eoption1_20">A.   strnset()</string>
+    <string name="Eoption2_20">B.   strinit()</string>
+    <string name="Eoption3_20">C.	strset()</string>
+    <string name="Eoption4_20">D.	strcset()</string>
+
+    <string name="Eoption1_21">A.	-1</string>
+    <string name="Eoption2_21">B.   0</string>
+    <string name="Eoption3_21">C.   1</string>
+    <string name="Eoption4_21">D.	Yes</string>
+
+    <string name="Eoption1_22">A.	printf(\"\\n\");</string>
+    <string name="Eoption2_22">B.	echo \"\\\\n\";</string>
+    <string name="Eoption3_22">C.   printf(\"\\\\n\");</string>
+    <string name="Eoption4_22">D.   printf(\'\\n\');</string>
+
+
+    <string name="Eoption1_23">A.	strnstr()</string>
+    <string name="Eoption2_23">B.	laststr()</string>
+    <string name="Eoption3_23">C.   strstr()</string>
+    <string name="Eoption4_23">D.   strrchr()</string>
+
+    <string name="Eoption1_24">A.	strchr()</string>
+    <string name="Eoption2_24">B.	strrchr()</string>
+    <string name="Eoption3_24">C.	strstr()</string>
+    <string name="Eoption4_24">D.	strnset()</string>
+
+    <string name="Eoption1_25">A.	printf();</string>
+    <string name="Eoption2_25">B.   gets();</string>
+    <string name="Eoption3_25">C.   scanf();</string>
+    <string name="Eoption4_25">D.	puts();</string>
+    <!--  Quiz question: Medium   -->
+    <string name="Moption1_1">A.    \"I am a boy\\n\0\"</string>
+    <string name="Moption2_1">B.    \"I am a boy\"</string>
+    <string name="Moption3_1">C.    \"I am a boy\r\0\"</string>
+    <string name="Moption4_1">D.    \"I am a boy\r\n\0\"</string>
+
+
+    <string name="Moption1_2">A.    open \"source.txt\" in binary mode for reading and writing</string>
+    <string name="Moption2_2">B.    Create a new file \"source.txt\" for reading and writing</string>
+    <string name="Moption3_2">C.    None of above</string>
+    <string name="Moption4_2">D.    open \"source.txt\" in binary mode for reading</string>
+
+    <string name="Moption1_3">A.	The first character in the file</string>
+    <string name="Moption2_3">B.    The name of the file.</string>
+    <string name="Moption3_3">C.    A structure which contains a <i>char</i> pointer which points to the first character of a file.</string>
+    <string name="Moption4_3">D.	The last character in the file.</string>
+
+    <string name="Moption1_4">A.	Reading</string>
+    <string name="Moption2_4">B.    Read and Write</string>
+    <string name="Moption3_4">C.	Appending</string>
+    <string name="Moption4_4">D.	Writing</string>
+
+    <string name="Moption1_5">A.	printf(\"%f %lf\", a, b);</string>
+    <string name="Moption2_5">B.	printf(\"%Lf %f\", a, b);</string>
+    <string name="Moption3_5">C.	printf(\"%Lf %Lf\", a, b);</string>
+    <string name="Moption4_5">D.	printf(\"%f %Lf\", a, b);</string>
+
+    <string name="Moption1_6">A.	\"A.C\" \"B.C\" \"C.C\"</string>
+    <string name="Moption2_6">B.	\"B.C\" \"C.C\"</string>
+    <string name="Moption3_6">C.    Error in fclose()</string>
+    <string name="Moption4_6">D.    \"A.C\"</string>
+
+    <string name="Moption1_7">A.	Decimal system</string>
+    <string name="Moption2_7">B.    No need to convert</string>
+    <string name="Moption3_7">C.	Octal system</string>
+    <string name="Moption4_7">D.    Hexadecimal system</string>
+
+    <string name="Moption1_8">A.	&amp;&amp; operator</string>
+    <string name="Moption2_8">B.	&amp; operator</string>
+    <string name="Moption3_8">C.	|| operator</string>
+    <string name="Moption4_8">D.	! operator</string>
+
+    <string name="Moption1_9">A.	&amp;&amp; operator</string>
+    <string name="Moption2_9">B.	&amp; operator</string>
+    <string name="Moption3_9">C.	|| operator</string>
+    <string name="Moption4_9">D.	| operator</string>
+
+    <string name="Moption1_10">A.	&amp;&amp; operator</string>
+    <string name="Moption2_10">B.   || operator</string>
+    <string name="Moption3_10">C.   &amp; operator</string>
+    <string name="Moption4_10">D.	! operator</string>
+
+    <string name="Moption1_11">A.   Garbage value</string>
+    <string name="Moption2_11">B.   128</string>
+    <string name="Moption3_11">C.	Error</string>
+    <string name="Moption4_11">D.	0</string>
+
+    <string name="Moption1_12">A.   No error</string>
+    <string name="Moption2_12">B.	Error: cannot convert from \'const int *\' to \'int *const\'</string>
+    <string name="Moption3_12">C.	Error: LValue required in strcpy</string>
+    <string name="Moption4_12">D.   Error: RValue required</string>
+
+    <string name="Moption1_13">A.	Address of i\n\t  Address of j</string>
+    <string name="Moption2_13">B.  Error: cannot convert parameter 1 from \'const int **\' to \'int **\' </string>
+    <string name="Moption3_13">C.   10\n\t  223</string>
+    <string name="Moption4_13">D.	Garbage value</string>
+
+    <string name="Moption1_14">A.	5</string>
+    <string name="Moption2_14">B.	10</string>
+    <string name="Moption3_14">C.	Error</string>
+    <string name="Moption4_14">D.	Garbage value</string>
+
+    <string name="Moption1_15">A.	i= FFE2 ptr=12 j=FFE4 ptr=24</string>
+    <string name="Moption2_15">B.   i= FFE0 ptr=20 j=FFE1 ptr=30</string>
+    <string name="Moption3_15">C.   i= FFE4 ptr=10 j=FFE2 ptr=20</string>
+    <string name="Moption4_15">D.	Garbage value</string>
+
+    <string name="Moption1_16">A.	IndiaBIX 1 7 11 0</string>
+    <string name="Moption2_16">B.	1</string>
+    <string name="Moption3_16">C.   7</string>
+    <string name="Moption4_16">D.   4</string>
+
+    <string name="Moption1_17">A.   A 10 10 3.140000 Hello\n\t   A 10 10 3.140000 Hello</string>
+    <string name="Moption2_17">B.   A 10 3.14\n\t   A 10 3.14</string>
+    <string name="Moption3_17">C.	A 10 Hello\n\t   A 10 Hello</string>
+    <string name="Moption4_17">D.	Error</string>
+
+    <string name="Moption1_18">A    4 8\n\t   6 9 7</string>
+    <string name="Moption2_18">B.	2 4 8\n\t   3, 6, 9, 7</string>
+    <string name="Moption3_18">C.   2 4\n\t   3 6</string>
+    <string name="Moption4_18">D.	1 1 1\n\t   1 1 1 1</string>
+
+    <string name="Moption1_19">A.	A, A\n\t   B, B\n\t   C, C\n\t   D, D</string>
+    <string name="Moption2_19">B.   A, 65\n\t   B, 66\n\t   C, 67\n\t   D, 68</string>
+    <string name="Moption3_19">C.   A, a\n\t   B, b\n\tC, c\n\t   D, d</string>
+    <string name="Moption4_19">D.	A, 0\n\t   B, 0\n\t   C, 0\n\t   C, 0</string>
+
+    <string name="Moption1_20">A.	Dogs 12</string>
+    <string name="Moption2_20">B.	Cats 14</string>
+    <string name="Moption3_20">C.   Apple 12</string>
+    <string name="Moption4_20">D.   Boys 13</string>
+    <!--  Quiz question: HArd   -->
+    <string name="Hoption1_1">A.    Not compile</string>
+    <string name="Hoption2_1">B.	Compiles with an warning</string>
+    <string name="Hoption3_1">C.    It compiles</string>
+    <string name="Hoption4_1">D.	Compiles and print nothing</string>
+
+
+    <string name="Hoption1_2">A.	During editing</string>
+    <string name="Hoption2_2">B.	During linking</string>
+    <string name="Hoption3_2">C.    During preprocessing</string>
+    <string name="Hoption4_2">D.    During execution</string>
+
+    <string name="Hoption1_3">A.	The element will be set to 0.</string>
+    <string name="Hoption2_3">B.    The compiler would report an error.</string>
+    <string name="Hoption3_3">C.    The array size would appropriately grow.</string>
+    <string name="Hoption4_3">D.    The program may crash if some important data gets overwritten.</string>
+
+    <string name="Hoption1_4">A.    ptr is a pointer to an array of 10 integers</string>
+    <string name="Hoption2_4">B.    ptr is array of pointers to 10 integers</string>
+    <string name="Hoption3_4">C.	ptr is an array of 10 integers</string>
+    <string name="Hoption4_4">D.	ptr is an pointer to array</string>
+
+    <string name="Hoption1_5">A.	Value of elements in array</string>
+    <string name="Hoption2_5">B.    Base address of the array</string>
+    <string name="Hoption3_5">C.    First element of the array</string>
+    <string name="Hoption4_5">D.	Address of the last element of array</string>
+
+    <string name="Hoption1_6">A.	remove(var-name);</string>
+    <string name="Hoption2_6">B.    dalloc(var-name);</string>
+    <string name="Hoption3_6">C.	delete(var-name);</string>
+    <string name="Hoption4_6">D.    free(var-name);</string>
+
+    <string name="Hoption1_7">A.	All of them let you define new values</string>
+    <string name="Hoption2_7">B.    All of them let you define new pointers</string>
+    <string name="Hoption3_7">C.    All of them let you define new data types</string>
+    <string name="Hoption4_7">D.	All of them let you define new structures</string>
+
+    <string name="Hoption1_8">A.	128 characters</string>
+    <string name="Hoption2_8">B.    It may vary from one operating system to another</string>
+    <string name="Hoption3_8">C.	67 characters</string>
+    <string name="Hoption4_8">D.    256 characters</string>
+
+    <string name="Hoption1_9">A.    int main()\n{\n\tint argc; char *argv;\n}</string>
+    <string name="Hoption2_9">B.    int main(argc, argv)\n\t   int argc; char *argv;</string>
+    <string name="Hoption3_9">C.    None of above</string>
+    <string name="Hoption4_9">D.    int main(int argc, char *argv[])</string>
+
+    <string name="Hoption1_10">A.	\'c\' means argument control \'v\' means argument vector</string>
+    <string name="Hoption2_10">B.	\'c\' means argument count \'v\' means argument vertex</string>
+    <string name="Hoption3_10">C.   \'c\' means argument count \'v\' means argument vector</string>
+    <string name="Hoption4_10">D.	\'c\' means argument configuration \'v\' means argument visibility</string>
+
+    <string name="Hoption1_11">A.	Integer</string>
+    <string name="Hoption2_11">B.	Integer pointer</string>
+    <string name="Hoption3_11">C.	Error in declaration</string>
+    <string name="Hoption4_11">D.	None of above</string>
+
+    <string name="Hoption1_12">A.	P is a constant</string>
+    <string name="Hoption2_12">B.	P is a character constant</string>
+    <string name="Hoption3_12">C.	P is character type</string>
+    <string name="Hoption4_12">D.	None of above</string>
+
+    <string name="Hoption1_13">A.	x is a pointer</string>
+    <string name="Hoption2_13">B.   x is an array of three function pointers</string>
+    <string name="Hoption3_13">C.   x is an array of three pointer</string>
+    <string name="Hoption4_13">D.	Error in x declaration</string>
+
+    <string name="Hoption1_14">A.	memory.h</string>
+    <string name="Hoption2_14">B.   string.h</string>
+    <string name="Hoption3_14">C.   stdlib.h</string>
+    <string name="Hoption4_14">D.	dos.h</string>
+
+    <string name="Hoption1_15">A.	dealloc();</string>
+    <string name="Hoption2_15">B.	malloc(variable_name, 0)</string>
+    <string name="Hoption3_15">C.	free();</string>
+    <string name="Hoption4_15">D.	memalloc(variable_name, 0)</string>
+
+    <string name="Hoption1_16">A.	memfree(int p);</string>
+    <string name="Hoption2_16">B.	dealloc(p);</string>
+    <string name="Hoption3_16">C.	malloc(p, 0);</string>
+    <string name="Hoption4_16">D.	free(p);</string>
+
+    <string name="Hoption1_17">A.   malloc() and calloc()</string>
+    <string name="Hoption2_17">B.	alloc() and memalloc()</string>
+    <string name="Hoption3_17">C.   malloc() and memalloc()</string>
+    <string name="Hoption4_17">D.	memalloc() and faralloc()</string>
+
+    <string name="Hoption1_18">A.   char *ptr[3];</string>
+    <string name="Hoption2_18">B.   char *ptr[3]();</string>
+    <string name="Hoption3_18">C.   char (*ptr[3])();</string>
+    <string name="Hoption4_18">D.   char **ptr[3];</string>
+
+
+    <!--  Quiz question: Easy, Medium, Hard  -->
+    <string name="question_easy1">1. Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1 \?</string>
+    <string name="question_easy2">2. What are the types of linkages\?</string>
+    <string name="question_easy3">3. Which of the following special symbol allowed in a variable name\?</string>
+    <string name="question_easy4">4. Is there any difference between following declarations\?</string>
+    <string name="question_easy5">5. How would you round off a value from 1.66 to 2.0\?</string>
+    <string name="question_easy6">6. Which of the following is the correct order of evaluation for the below expression\? \nz = x + y * z / 4 % 2 \- 1</string>
+    <string name="question_easy7">7. Which of the following correctly shows the hierarchy of arithmetic operations in C\?</string>
+    <string name="question_easy8">8. Which of the following is the correct usage of conditional operators used in C\?</string>
+    <string name="question_easy9">9. Which of the following is the correct order if calling functions in the below code\? \na = f1(23, 14) * f2(12/4) + f3();</string>
+    <string name="question_easy10">10. Which of the following are unary operators in C\?\n
+1.	!\n
+2.	sizeof\n
+3.	~\n
+4.	&amp;&amp;\n</string>
+    <string name="question_easy11">11. In which order do the following gets evaluated\n
+1.	Relational\n
+2.	Arithmetic\n
+3.	Logical\n
+4.	Assignment\n
+</string>
+    <string name="question_easy12">12. The keyword used to transfer control from a function back to the calling function is</string>
+    <string name="question_easy13">13. What is the notation for following functions\?\n
+\n
+1.  int f(int a, float b)\n
+    {\n
+        /* Some code */\n
+    }\n
+\n
+2.  int f(a, b)\n
+    int a; float b;\n
+    {\n
+        /* Some code */\n
+    }\n</string>
+    <string name="question_easy14">14. How many times the program will print \"IndiaBIX\" \?\n
+
+\n
+int main()\n
+{\n
+    printf("IndiaBIX");\n
+    main();\n
+    return 0;\n
+}\n</string>
+    <string name="question_easy15">15. What is (void*)0\?\n
+\n
+A.	Representation of NULL pointer\n
+B.	Representation of void pointer\n
+C.	Error\n
+D.	None of above\n</string>
+    <string name="question_easy16">16. Can you combine the following two statements into one\?\n
+\n
+char *p;\n
+p = (char*) malloc(100);\n</string>
+    <string name="question_easy17">17. In which header file is the NULL macro defined\?</string>
+    <string name="question_easy18">18. How many bytes are occupied by near, far and huge pointers (DOS)\?</string>
+    <string name="question_easy19">19. If a variable is a pointer to a structure, then which of the following operator is used to access data members of the structure through the pointer variable\?</string>
+    <string name="question_easy20">20. Which of the following function sets first n characters of a string to a given character\?</string>
+    <string name="question_easy21">21. If the two strings are identical, then strcmp() function returns</string>
+    <string name="question_easy22">22. How will you print \n on the screen\?</string>
+    <string name="question_easy23">23. The library function used to find the last occurrence of a character in a string is</string>
+    <string name="question_easy24">24. Which of the following function is used to find the first occurrence of a given string in another string\?</string>
+    <string name="question_easy25">25. Which of the following function is more appropriate for reading in a multi-word string\?</string>
+
+    <string name="question_medium1">1. In a file contains the line \"I am a boy\r\n\" then on reading this line into the array str using fgets(). What will str contain\?</string>
+    <string name="question_medium2">2. What is the purpose of \"rb\" in fopen() function used below in the code\?\n
+\n
+FILE *fp;\n
+fp = fopen(\"source.txt\", \"rb\");\n</string>
+    <string name="question_medium3">3. What does fp point to in the program \?\n
+\n
+int main()\n
+{\n
+    FILE *fp;\n
+    fp=fopen(\"trial\", \"r\");\n
+    return 0;\n
+}\n</string>
+    <string name="question_medium4">4. Which of the following operations can be performed on the file \"NOTES.TXT\" using the below code\?\n
+\n
+FILE *fp;\n
+fp = fopen(\"NOTES.TXT\", \"r+\");\n</string>
+    <string name="question_medium5">5. To print out a and b given below, which of the following printf() statement will you use\?\n
+\n
+float a=3.14;\n
+double b=3.14;\n</string>
+    <string name="question_medium6">6. Which files will get closed through the fclose() in the following program\?\n
+        \n
+int main()\n
+{\n
+    FILE *fs, *ft, *fp;\n
+    fp = fopen(\"A.C\", \"r\");\n
+    fs = fopen(\"B.C\", \"r\");\n
+    ft = fopen(\"C.C\", \"r\");\n
+    fclose(fp, fs, ft);\n
+    return 0;\n
+}\n</string>
+    <string name="question_medium7">7. In which numbering system can the binary number 1011011111000101 be easily converted to\?</string>
+    <string name="question_medium8">8. Which bitwise operator is suitable for turning off a particular bit in a number\?</string>
+    <string name="question_medium9">9. Which bitwise operator is suitable for turning on a particular bit in a number\?</string>
+    <string name="question_medium10">10. Which bitwise operator is suitable for checking whether a particular bit is on or off\?</string>
+    <string name="question_medium11">11. What will be the output of the program\?\n
+        \n
+int main()\n
+{\n
+    int y=128;\n
+    const int x=y;\n
+    printf(\"%d\n\", x);\n
+    return 0;\n
+}\n</string>
+    <string name="question_medium12">12. What will be the output of the program\?\n
+\n
+\n
+union employee\n
+{\n
+    char name[15];\n
+    int age;\n
+    float salary;\n
+};\n
+const union employee e1;\n
+\n
+int main()\n
+{\n
+    strcpy(e1.name, \"K\");\n
+    printf(\"%s %d %f\", e1.name, e1.age, e1.salary);\n
+    return 0;\n
+}\n</string>
+    <string name="question_medium13">13. What will be the output of the program\?\n
+
+\n
+int fun(int **ptr);\n
+\n
+int main()\n
+{\n
+    int i=10;\n
+    const int *ptr = &amp;i;\n
+        fun(&amp;ptr);\n
+    return 0;\n
+}\n
+int fun(int **ptr)\n
+{\n
+    int j = 223;\n
+    int *temp = &amp;j;\n
+        printf(\"Before changing ptr = %5x\n\", *ptr);\n
+    const *ptr = temp;\n
+    printf(\"After changing ptr = %5x\n\", *ptr);\n
+    return 0;\n
+}</string>
+    <string name="question_medium14">14. What will be the output of the program\?\n
+\n
+int main()\n
+{\n
+    const int x=5;\n
+    const int *ptrx;\n
+    ptrx = &amp;x;\n
+        *ptrx = 10;\n
+    printf(\"%d\n\", x);\n
+    return 0;\n
+}</string>
+    <string name="question_medium15">15. What will be the output of the program in TurboC\?\n
+\n
+int fun(int **ptr);\n
+\n
+int main()\n
+{\n
+    int i=10, j=20;\n
+    const int *ptr = &amp;i;\n
+        printf(\" i = %5X\", ptr);\n
+    printf(\" ptr = %d\", *ptr);\n
+    ptr = &amp;j;\n
+        printf(\" j = %5X\", ptr);\n
+    printf(\" ptr = %d\", *ptr);\n
+    return 0;\n
+}\n</string>
+    <string name="question_medium16">16. What will be the output of the program\?\n
+\n
+\n
+void fun(char *msg, );\n
+\n
+int main()\n
+{\n
+    fun(\"IndiaBIX\", 1, 4, 7, 11, 0);\n
+    return 0;\n
+}\n
+void fun(char *msg, )\n
+{\n
+    va_list ptr;\n
+    int num;\n
+    va_start(ptr, msg);\n
+    num = va_arg(ptr, int);\n
+    num = va_arg(ptr, int);\n
+    printf(\"%d\", num);\n
+}\n</string>
+    <string name="question_medium17">17. What will be the output of the program\?\n
+ \n
+void fun1(char, int, int *, float *, char *);\n
+void fun2(char ch, );\n
+void (*p1)(char, int, int *, float *, char *);\n
+void (*p2)(char ch, );\n
+\n
+int main()\n\n
+{\n
+    char ch=\'A\'; int i=10;\n
+    float f=3.14; char *p=\"Hello\";\n
+    p1=fun1;\n
+    p2=fun2;\n
+    (*p1)(ch, i, &amp;i, &amp;f, p);\n
+    (*p2)(ch, i, &amp;i, &amp;f, p);\n
+    return 0;\n
+}\n
+void fun1(char ch, int i, int *pi, float *pf, char *p)\n
+{\n
+    printf(\"%c %d %d %f %s \n\", ch, i, *pi, *pf, p);\n
+}\n
+void fun2(char ch, )\n
+{\n
+    int i, *pi; float *pf; char *p;\n
+    va_list list;\n
+    printf(\"%c \", ch);\n
+    va_start(list, ch);\n
+    i = va_arg(list, int);\n
+    printf(\"%d \", i);\n
+    \n
+    pi = va_arg(list, int*);\n
+    printf(\"%d \", *pi);\n
+    pf = va_arg(list, float*);\n
+    printf(\"%f \", *pf);\n
+    p = va_arg(list, char *);\n
+    printf(\"%s\", p);\n
+}\n</string>
+    <string name="question_medium18">18. What will be the output of the program\?\n
+\n
+void dumplist(int, );\n
+\n
+int main()\n
+{\n
+    dumplist(2, 4, 8);\n
+    dumplist(3, 6, 9, 7);\n
+    return 0;\n
+}\n
+void dumplist(int n, )\n
+{\n
+    va_list p; int i;\n
+    va_start(p, n);\n
+\n
+    while(n\-\->0)\n
+    {\n
+        i = va_arg(p, int);\n
+        printf(\"%d\", i);\n
+    }\n
+    va_end(p);\n
+    printf(\"\n\");\n
+}\n</string>
+    <string name="question_medium19">19. What will be the output of the program\?\n
+void display(int num, );\n
+\n
+int main()\n
+{\n
+    display(4, \'A\', \'B\', \'C\', \'D\');\n
+    return 0;\n
+}\n
+void display(int num, )\n
+{\n
+    char c, c1; int j;\n
+    va_list ptr, ptr1;\n
+    va_start(ptr, num);\n
+    va_start(ptr1, num);\n
+    for(j=1; j(less than)=num ; j++)\n
+    {\n
+        c = va_arg(ptr, int);\n
+        printf(\"%c\", c);\n
+        c1 = va_arg(ptr1, int);\n
+        printf(\"%d\n\", c1);\n
+    }\n
+}</string>
+    <string name="question_medium20">20. What will be the output of the program\?\n
+
+void fun1(int num, );\n
+void fun2(int num, );\n
+\n
+int main()\n
+{\n
+    fun1(1, \"Apple\", \"Boys\", \"Cats\", \"Dogs\");\n
+    fun2(2, 12, 13, 14);\n
+    return 0;\n
+}\n
+void fun1(int num, )\n
+{\n
+    char *str;\n
+    va_list ptr;\n
+    va_start(ptr, num);\n
+    str = va_arg(ptr, char *);\n
+    printf(\"%s \", str);\n
+}\n
+void fun2(int num, )\n
+{\n
+    va_list ptr;\n
+    va_start(ptr, num);\n
+    num = va_arg(ptr, int);\n
+    printf(\"%d\", num);\n
+}</string>
+
+    <string name="question_hard1">1. What will the SWAP macro in the following program be expanded to on preprocessing\? will the code compile\?\n
+        \n
+#define SWAP(a, b, c)(c t; t=a, a=b, b=t)\n
+int main()\n
+{\n
+    int x=10, y=20;\n
+    SWAP(x, y, int);\n
+    printf(\"%d %d\n\", x, y);\n
+    return 0;\n
+}\n</string>
+    <string name="question_hard2">2. In which stage the following code\n
+gets replaced by the contents of the file stdio.h\n</string>
+
+    <string name="question_hard3">3. What will happen if in a C program you assign a value to an array element whose subscript exceeds the size of array\?</string>
+    <string name="question_hard4">4. What does the following declaration mean\?\n
+int (*ptr)[10];</string>
+    <string name="question_hard5">5. In C, if you pass an array as an argument to a function, what actually gets passed\?</string>
+    <string name="question_hard6">6. How will you free the allocated memory \?</string>
+    <string name="question_hard7">7. What is the similarity between a structure, union and enumeration\?</string>
+    <string name="question_hard8">8. The maximum combined length of the command\-line arguments including the spaces between adjacent arguments is</string>
+    <string name="question_hard9">9. According to ANSI specifications which is the correct way of declaring main when it receives command\-line arguments\?</string>
+    <string name="question_hard10">10. What do the \'c\' and \'v\' in argv stands for\?</string>
+    <string name="question_hard11">11. In the following code, the P2 is Integer Pointer or Integer\?
+\n
+typedef int *ptr;\n
+ptr p1, p2;\n</string>
+    <string name="question_hard12">12. In the following code what is \'P\'\?\n
+\n
+typedef char *charp;\n
+const charp P;\n</string>
+    <string name="question_hard13">13. What is x in the following program\?
+\n
+int main()\n
+{\n
+    typedef char (*(*arrfptr[3])())[10];\n
+    arrfptr x;\n
+    return 0;\n
+}\n</string>
+    <string name="question_hard14">14. Which header file should be included to use functions like malloc() and calloc()\?</string>
+    <string name="question_hard15">15. What function should be used to free the memory allocated by calloc() \?</string>
+    <string name="question_hard16">16. How will you free the memory allocated by the following program\?\n
+\n
+\n
+int main()\n
+{\n
+    int **p, i, j;\n
+    p = (int **) malloc(MAXROW * sizeof(int*));\n
+    return 0;\n
+}\n
+    </string>
+    <string name="question_hard17">17. Specify the 2 library functions to dynamically allocate memory\?</string>
+    <string name="question_hard18">18. Declare the following statement\?\n
+\"An array of three pointers to chars\".</string>
+
+
+    <!--  Topics, SubTopicsBriefingActivity  lessons string values  -->
+    <string name="string_body11"><b>About C Programming</b>\n\n<i>Procedural Language</i> - Instructions in a C program are executed step by step.\n<i>Portable</i> - You can move C programs from one platform to another, and run it without any or minimal changes.\n<i>Speed</i> - C programming is faster than most programming languages like Java, Python, etc.\n<i>General Purpose</i> - C programming can be used to develop operating systems, embedded systems, databases, and so on.\n\n\n<b>Why Learn C Programming\?</b>\n\n - C helps you to understand the internal architecture of a computer, how computer stores and retrieves information.\n - After learning C, it will be much easier to learn other programming languages like Java, Python, etc.\n - Opportunity to work on open source projects. Some of the largest open-source projects such as Linux kernel, Python interpreter, SQLite database, etc. are written in C programming.\n\n\n<b><i>How to learn C Programming\?</i></b>\n\n <b><i>Write a lot of C programming code</i> - The only way you can learn programming is by writing a lot of code.</b></string>
+    <string name="string_body12">Before starting the abcd of C language, you need to learn how to write, compile and run the first c program.\n\nTo write the first c program, open the C console and write the following code:\n\n<i><b>NOTE:</b></i>  In the below program code, #include "stdio.h" includes the standard input output library functions. The printf() function is defined in stdio.h .\n\n<i>int main()</i>: The main() function is the <u>entry point of every program</u> in c language.</string>
+    <string name="string_body13">In this example, the user is asked to enter two integers. Then, the sum of these two integers is calculated and displayed on the screen.\n\n\nTo understand this <b>example</b>, you should have the knowledge of the following C programming topics:\n - C Data Types\n- C Variables, Constants and Literals\n - C Input Output (I/O)\n- C Programming Operators</string>
+    <string name="string_body14">Most programming languages have a structure, including the C language. \n\nA <u>\'C\' program</u> is divided into six sections: <i>Documentation</i>, <i>Link</i>, <i>Definition</i>, <i>Global Declaration</i>, <i>Main()</i> Function, <i>Subprograms</i>. While the main section is compulsory, the rest are optional in the structure of the C program.</string>
+
+    <string name="string_body21"><b>What are Operators\?</b>\n\n
+
+An operator is a symbol that operates on a variable or value. It is used for performing certain operations like <b><i>arithmetical</i></b>, <b><i>logical</i></b>, <b><i>relational</i></b>, etc.
+\n\n
+        When a programmer wants to perform some type of mathematical operation then you have to use operators. \n\nThe purpose of operators is mainly for <u>mathematical and logical calculations</u>
+        .</string>
+    <string name="string_body23"><b><i>DEFINITION</i></b>:   A constant is a name given to the variable whose values can\’t be altered or changed. A constant is very similar to variables in the C programming language, but it can hold only a single variable during the execution of a program. It means that once we assign value to the constant, then we can\’t change it throughout the execution of a program- it stays fixed.\n\n\n<b>Use of the Constants in C</b>:\n A constant is basically a named memory location in a program that holds a single value throughout the execution of that program. It can be of any data type- character, floating-point, string and double, integer, etc. There are various types of constants in C. It has two major categories- primary and secondary constants. Character constants, real constants, and integer constants, etc., are types of primary constants. Structure, array, pointer, union, etc., are types of secondary constants.\n\n\n<b><i>Types Of Constants in C:</i></b>\n<b>
+        Integer Constants</b> -  It can be an octal integer or a decimal integer or even a hexadecimal integer. We specify a decimal integer value as a direct integer value, while we prefix the octal integer values with \‘o\’. We also prefix the hexadecimal integer values with \‘0x\’.\nThe integer constant used in a program can also be of an unsigned type or a long type. We suffix the unsigned constant value with \‘u\’ and we suffix the long integer constant value with \‘l\’. Also, we suffix the unsigned long integer constant value using \‘ul\’.\n<b>Floating Point Constants / Real Constants</b> - This type of constant must contain both the parts- decimal as well as integers. Sometimes, the floating-point constant may also contain the exponential part. In such a case when the floating-point constant gets represented in an exponential form, its value must be suffixed using \‘E\’ or \‘e\’.\n\nExample,\nWe represent the floating-point value 3.14 as 3E-14 in its exponent form. \n<b>Character Constants</b> - The character constants are symbols that are enclosed in one single quotation. The maximum length of a character quotation is of one character only.\n\nExample,\n\n\‘B\’\n\‘5\’\n\‘+\’\n\nSome predefined character constants exist in the C programming language, known as escape sequences. Each escape sequence consists of a special functionality of its own, and each of these sequences gets prefixed with a \‘/\’ symbol. We use these escape sequences in output functions known as \‘printf()\’. \n<b>String Constants</b> - The string constants are a collection of various special symbols, digits, characters, and escape sequences that get enclosed in double quotations.\n\nThe definition of a string constant occurs in a single line:\n\n“This is Cookie”\nWe can define this with the use of constant multiple lines as well:\n” This\\\nis\\\nCookie”\n\nThe definition of the same string constant can also occur using white spaces:\n“This” “is” “Cookie”\n\nAll the three mentioned above define the very same string constant.</string>
+    <string name="string_body24"><b>C Declarations:</b>\n\n\tA "declaration" establishes an association between a particular variable, function, or type and its attributes. Overview of Declarations gives the ANSI syntax for the declaration non terminal. A declaration also specifies where and when an identifier can be accessed (the "linkage" of an identifier).\n\nA "definition" of a variable establishes the same associations as a declaration but also causes storage to be allocated for the variable.</string>
+    <string name="string_body22">In C programming, data types are declarations for variables. This determines the type and size of data associated with variables. For example,\n\nint myVar;\nHere, myVar is a variable of int (integer) type. The size of int is 4 bytes.\n\nThe basic data types available in C are <b>int, char, float, double, short int, unsigned int, long int, long long int, unsigned int, log int, long long int, unsigned long int, unsigned long long int, signed char, unsigned char, long double.</b> \n\n\n\t----------------------\n.</string>
+    <string name="string_body25"><b>DEFINITION</b>:   A variable in simple terms is a storage place that has some memory allocated to it. Basically, a variable is used to store some form of data. Different types of variables require different amounts of memory, different type of memory locations, and some specific set of operations that can be applied to them.\n\n\nA variable name can consist of alphabets (both upper and lower case), numbers, and the underscore \‘_\’ character. However, the name must not start with a number.\nBelow is an example of variables in C language, that illustrates its normal use in any type of c program\n</string>
+    <string name="string_body26">The above table shows all the arithmetic operators supported by the C language. Assume variable A holds 10 and variable B holds 20, then −\n\n</string>
+    <string name="string_body27">Assignment Operators help us to assign the value or result of an expression to a variable and the value on the right side must be of the same data type as the variable on the left side. They have the lowest precedence level among all the operators and it associates from right to left. The most commonly used Assignment Operator is =. Also, Assignment Operators fall under the category of Binary Operators.\n\nFor example, x = 4; then that means value 4 is assigned to variable x or we can say that variable x holds value 4.\n\nThe Following Example Explains in detail about the various assignment operators.\n\n</string>
+    <string name="string_body28"><b>Function Calling</b>:\n\n\tA function call is an important part of the C programming language. It is called inside a program whenever it is required to call a function. It is only called by its name in the main() function of a program. We can pass the parameters to a function calling in the main() function.\n\n\n <b><i>The Example is explained below to demonstrate Function Calling</i></b>: \n</string>
+    <string name="string_body31"><b><u>Types of Control Statements</u></b>\n\n\nThere are four types of control statements in C:\n - Decision making statements (if, if-else)\n - Selection statements (switch-case)\n - Iteration statements (for, while, do-while)\n- Jump statements (break, continue, goto)\n\n\n1. <b><i>The if-else Statement</i></b>\n\tThe if-else statement is used to carry out a logical test and then take one of two possible actions depending on the outcome of the test (ie, whether the outcome is true or false).\n\n<b>Syntax:</b>\n\tif (condition)\n{\n// statements\n}\nelse\n{\n// statements\n}   \n\n2. <b><i>The switch-case Statement</i></b>\n\tA switch statement is used for multiple way selections that will branch into different code segments based on the value of a variable or expression. This expression or variable must be of integer data type.\n\n<b>Syntax:</b>\nswitch (expression){\ncase value1:\ncode segment1;\nbreak;\ncase value2:\ncode segment2;\nbreak;\n.\n.\n.\ncase valueN:\ncode segmentN;\nbreak;\ndefault:\ndefault code segment;\n}   \n\n3. <b><i>Iteration Statements</i></b>\n\ni .\t<b>The for statement</b>\n\tThe for statement or the for loop repeatedly executes the set of instructions that comprise the body of the for loop until a particular condition is satisfied.\n\n<b><i>Syntax:</i></b>\nfor(initialization; termination; increment/decrement) {\n\t //statements to be executed \n}\nwhere, \n - The <i>initialization</i> expression, which initializes the looping index. The looping index controls the looping action. The initialization expression is executed only once, when the loop begins.\n - The <i>termination</i> expression, which represents a condition that must be true for the loop to continue execution.\n - The <i>increment or decrement</i> expression is executed after every iteration to update the value of the looping index..\n\nii .\t<b><i>The while statement</i></b> \n\tThe while statement executes a block of statements repeatedly while a particular condition is true.\n<b>SYNTAX:</b>\nwhile (condition)  {\n//statement(s) to be executed\n}\n\niii .\t<b><i>The do-while loop</i></b>\n\tThe do-while statement evaluates the condition at the end of the loop after executing the block of statements at least once. If the condition is true the loop continues, else it terminates after the first iteration.\n\n<b>SYNTAX:</b>\n\ndo {\n//statements to be executed;\n}\nwhile(condition); \n\n    4. <b>  <i>Jump Statements</i></b>:\n\tThe break; continue; and goto; statements are used to alter the normal flow of a program. Loops perform a set of repetitive task until text expression becomes false but it is sometimes desirable to skip some statements inside loop or terminate the loop immediately without checking the test expression.\n\n\ni .\t<b>break statement</b>:\tIn C programming, break statement is used with conditional if statement.\nThe break is used in terminating the loop immediately after it is encountered.\n\n<b>SYNTAX</b>:\tbreak;\n\nThe  break statement can be used in terminating loops like <u>for, while and do...while</u>\n\nii .\t<b>continue statement</b>:\tIt is sometimes desirable to skip some statements inside the loop. In such cases, continue statement is used.\n\n<b><i>SYNTAX</i></b>: \tcontinue;\n\n  Just like break, continue is also used with conditional if statement.\n\niii .\t<b><i>goto statement</i></b>:\tIn C programming, goto statement is used for altering the normal sequence of program execution by transferring control to some other part of the program.\n\n<b>SYNTAX:</b>\n\ngoto label;\n.............\n.............\n.............\nlabel:\nstatement;\n\nIn this syntax, label is an identifier.\nWhen, the control of program reaches to goto statement, the control of the program will jump to the label: and executes the code</string>
+    <string name="string_body32">An expression in C is a combination of operands and operators – it computes a single value stored in a variable. The operator denotes the action or operation to be performed. The operands are the items to which we apply the operation.\n\n\n<b><i>Types of Expression</i></b>:\tThere are six types of expressions. These are shown below:\n\n1. <b>Arithmetic Expression</b>\tIt consists of arithmetic operators ( + , - , * , and / ) and computes values of int, float, or double type.   \n\n2. <b>Relational Expression</b>\tIt usually consists of comparison operators (> , &lt; , >= , &lt;= , === , and !== ) and computes the answer in the bool type, i.e., true (1) or false (0).   \n\n3. <b>Logical Expression</b>\tIt consists of logical operators (&amp;&amp;, ||, and !) and combines relational expressions to compute answers in the bool type.   \n\n4. <b>Conditional Expression</b>\tIt consists of conditional statements that return true if the condition is met and false otherwise.   \n\n5. <b>Pointer Expression</b>\tIt may consist of an ampersand (&amp;) operator and returns address values.   \n\n6. <b>Bitwise Expression</b>\tIt consists of bitwise operators ( >>, &lt;&lt;, ~, &amp;, |, and ^ ) and performs operations at the bit level.   \n\n</string>
+    <string name="string_body33">1. <b><i>The if-else Statement</i></b>\n\tThe if-else statement is used to carry out a logical test and then take one of two possible actions depending on the outcome of the test (ie, whether the outcome is true or false).\n\n<b>Syntax:</b>\n\tif (condition)\n{\n// statements\n}\nelse\n{\n// statements\n}   \n\n2.  <b><i>The Ladder If - Else Statement</i></b>\n<b>Syntax</b>:\n\n\nif (condition)\nstatement 1;\nelse if (condition)\nstatement 2;\n.\n.\nelse\nstatement;</string>
+    <string name="string_body34">In C, Boolean is a data type that contains two types of values, i.e., 0 and 1. Basically, the bool type value represents two types of behavior, either true or false. Here, \'0\' represents false value, while \'1\' represents true value.\n\nIn C Boolean, \'0\' is stored as 0, and another integer is stored as 1.\n\n<b><i>SYNTAX</i></b>:\n\tbool variable_name; \n\n In the above syntax, bool is the data type of the variable, and variable_name is the name of the variable.\n\n\nLet\'s understand through an example.\n</string>
+    <string name="string_body35"><b><i>The while statement</i></b> \n\tThe while statement executes a block of statements repeatedly while a particular condition is true.\n<b>SYNTAX:</b>\nwhile (condition)  {\n//statement(s) to be executed\n}\n\n</string>
+    <string name="string_body36"><b>The for statement</b>\n\tThe for statement or the for loop repeatedly executes the set of instructions that comprise the body of the for loop until a particular condition is satisfied.\n\n<b><i>Syntax:</i></b>\nfor(initialization; termination; increment/decrement) {\n\t //statements to be executed \n}\nwhere, \n - The <i>initialization</i> expression, which initializes the looping index. The looping index controls the looping action. The initialization expression is executed only once, when the loop begins.\n - The <i>termination</i> expression, which represents a condition that must be true for the loop to continue execution.\n - The <i>increment or decrement</i> expression is executed after every iteration to update the value of the looping index..</string>
+    <string name="string_body37">i .\t<b>break statement</b>:\tIn C programming, break statement is used with conditional if statement.\nThe break is used in terminating the loop immediately after it is encountered.\n\n<b>SYNTAX</b>:\tbreak;\n\nThe  break statement can be used in terminating loops like <u>for, while and do...while</u>\n\nii .\t<b>continue statement</b>:\tIt is sometimes desirable to skip some statements inside the loop. In such cases, continue statement is used.\n\n<b><i>SYNTAX</i></b>: \tcontinue;\n\n  Just like break, continue is also used with conditional if statement.\n\n</string>
+
+    <string name="string_body41">Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.\n\nTo create an array, define the data type (like int) and specify the name of the array followed by square brackets [].\n\nTo insert values to it, use a comma-separated list, inside curly braces:\n\nint myNumbers[] = {25, 50, 75, 100};\nWe have now created a variable that holds an array of four integers.\n\n\n<b><i>Access the Elements of an Array:</i></b>\n\tTo access an array element, refer to its index number.\n\nArray indexes start with 0: [0] is the first element. [1] is the second element, etc.\n\n\n<b><i>Loop Through an Array</i></b>:\nYou can loop through the array elements with the for loop.\n\nThe following example outputs all elements in the myNumbers array:\n\n<i>Example:</i>\n\n\nint myNumbers[] = {25, 50, 75, 100};\nint i;\n\nfor (i = 0; i &lt; 4; i++) {\nprintf("%d\n", myNumbers[i]);\n}\n\n\n<b><i>Set Array Size</i></b>:\tAnother common way to create arrays, is to specify the size of the array, and add elements later:\n\n<u>Example:</u>\n\n// Declare an array of four integers:\nint myNumbers[4];\n\n// Add elements\nmyNumbers[0] = 25;\nmyNumbers[1] = 50;\nmyNumbers[2] = 75;\nmyNumbers[3] = 100;\n\n\nUsing this method, you should know the size of the array, in order for the program to store enough memory.\n\nYou are not able to change the size of the array after creation.</string>
+    <string name="string_body42"><b><i>Introduction</i></b>:\n\tScope, Visibility and Lifetime can be understood with a simple real life example of Netflix, Hotstar or Amazon Prime. There are Movies / TV Series present on these platforms that have local/global scope, visibility and a lifetime. Movies that are based on local languages like Hindi, Japanese, Korean have a limited scope and can be watched (accessible) in a limited area, while movies with global languages like English have a global scope and are available throughout the world to watch. These movies also have a lifetime, and once that lifetime is over these movies are removed from the streaming platforms.\n\nComing to the appropriate definitions for Scope, Visibility and Lifetime of a variable :\n\n - <b>Scope</b>:\tis defined as the availability of a variable inside a program, scope is basically the region of code in which a variable is available to use.\nThere are four types of scope:\nfile scope,\nblock scope,\nfunction scope and\nprototype scope.\n\n - <b>Visibility</b>\tof a variable is defined as if a variable is accessible or not inside a particular region of code or the whole program.\n\n - <b>Lifetime of a variable</b>\t   is the time for which the variable is taking up a valid space in the system\'s memory, it is of three types:\n\n - static lifetime,\n - automatic lifetime and\n - dynamic lifetime.</string>
+    <string name="string_body43">In programming, <b>initialization</b> is the assignment of some initial value to a variable. The manner in which initialization is performed depends on the programming language, as well as type, storage class, etc, of an object to be initialized.\nThe \'=\' character followed by an expression or a comma-separated list of expressions placed in curly brackets (braces). The letter list is sometimes called the "initializer list"\n\nIn C/C99/C++, an initializer is an optional part of a declarator.\n\nThe <b>Default initialization</b> is performed in following situations-\n\n - When a variable with automatic or static, is declared with no <b>initializer</b>.\n - When an object with dynamic storage duration is created by a new-expression with no initializer\n - When an object is created by a new-expression with the initializer consisting of an empty pair of parentheses.\n - When a base class or a non-static data member is not mentioned in a constructor initializer-list and that constructor is called.\nThe <b>Value initialization</b> is performed in following situations-\n\n - When a nameless temporary object is created with the initializer consisting of an empty pair of parentheses or braces.\n - When an object with dynamic storage duration is created by a new-expression with the initializer consisting of an empty pair of parentheses or braces.\n - When a non-static data member or a base class is initialized using a member initializer with an empty pair of parentheses or braces.\n - When a named variable (automatic, static, or thread-local) is declared with the initializer consisting of a pair of braces.</string>
+    <string name="string_body44">Here are some examples of C Program which you can practise for any exams or for any thing you wish for as this Chapter covers the most important Program Samples in the C Language.\n\n\n\n<b><i>Simple C Programs</i></b>\n\n       \n - Hello World Program in C\n - C program to check whether the given number is positive or negative\n - Reverse an input number using recursion\n - Program to find greatest of three numbers\n - C Program to print Fibonacci series in a given range\n - C Program to find factorial of a given number\n - Find Prime numbers in a given range\n - C Program to check if given number is Armstrong or not\n - C Program to check if given number is palindrome or not\n - C program to display palindrome numbers in a given range\n - C Program to find out the ASCII value of a character\n - C Program to find the size of int, float, double and char\n - C Program to find sum of first n natural numbers\n - C program to print integer entered by user  \n\n\n<b><i>Decision making and loop C Programs for practice</i></b>   \n - C Program to check if number is odd or even\n - C Program to check whether an alphabet is vowel or consonant\n - C Program to check leap year\n - C Program to generate multiplication table\n - C Program to display characters from \‘A\’ to \‘Z\’ using loop\n\n\n<b><i>C Programs related to numbers with solutions.</i></b> \n\n - C Program to Add two integers\n - C Program to find GCD of two numbers\n - C Program to find LCM of two numbers\n - C Program to check whether number is prime or not\n - C Program to count number of digits in an integer\n - C Program to calculate the power of a number\n\n\n<b><i>String Programs</i></b> \n\n - Program to convert string from upper case to lower case\n - Program to convert string from lower case to upper case\n - Sort a set of strings in ascending alphabetical order\n - Find length of a string without using strlen()\n - String concatenation without using strcat\n - Reverse a String using recursion\n\n\n<b><i>Array Programs</i></b>\n\n - Program to sort array in ascending order\n - Find largest element of given array\n - C program to find sum of array elements\n - C Program to find number of elements in an array\n\n\n<b><i>Sorting programs</i></b> \n\n - Bubble sort program in C\n - Insertion sort program in C\n - Selection sort program in C\n - Quicksort program in C    \n\n\n<b><i>C Pointer programs</i></b>\n\n\n - C program to find the largest of three numbers using Pointers\n - C program to count vowels and consonants in a String using pointer\n - C program to print String using Pointer\n - C program to swap two numbers using pointers\n - C program to create initialize and access a pointer variable\n\n\n<b><i>Programs on calculation</i></b>\n\n\n - Find the value of nPr for given value of n &amp; r\n - Find the value of nCr for given value of n &amp; r\n - C Program to multiply two floating numbers\n - C Program to find out Quotient and Remainder\n - C Program to find average of two numbers\n\n\n<b><i>Number system conversion programs</i></b>\n\n\n - Binary to decimal conversion\n - C Program to convert Decimal to Binary\n - C Program to convert Decimal to Octal\n - C Program to convert Octal to Decimal\n - C Program to convert Binary to Octal\n - C Program to convert Octal to Binary\n\n\n\n<b><i>Programs to find out areas of Geometric figures</i></b>\n\n\n - C program to find area and circumference of circle\n - C program to find area of equilateral triangle\n\n\n<b><i>File handling Programs</i></b>\n\n - C Program to read the first line from a file\n - C Program to write a sentence to a file</string>
+
+    <string name="string_body51">In c, we can divide a large program into the basic building blocks known as function. The function contains the set of programming statements enclosed by {}. A function can be called multiple times to provide reusability and modularity to the C program. In other words, we can say that the collection of functions creates a program. The function is also known as procedureor subroutinein other programming languages.\n\n<b>Advantage of functions in C</b>\n\n - By using functions, we can avoid rewriting same logic/code again and again in a program.\n - We can call C functions any number of times in a program and from any place in a program.\n - We can track a large C program easily when it is divided into multiple functions.\n - Reusability is the main achievement of C functions.\n - However, Function calling is always a overhead in a C program.\n\n\n<b><u>Function Aspects</u></b>\t There are three aspects of a  C Function.\n\n - <b>Function Declaration</b> A function must be declared globally in a c program to tell the compiler about the function name, function parameters, and return type.\n\n - <b>Function call</b> Function can be called from anywhere in the program. The parameter list must not differ in function calling and function declaration. We must pass the same number of functions as it is declared in the function declaration.\n\n - <b>Function definition</b>  It contains the actual statements which are to be executed. It is the most important aspect to which the control comes when the function is called. Here, we must notice that only one value can be returned from the function.\n\n\nThe syntax of creating function in c language is given below:\n\nreturn_type function_name(data_type parameter . . .){\n//code to be executed\n} \n\n\n<b><u>Types of Functions</u></b>\tThere are two types of functions in C programming:\n\n1. <i><b>Library Functions</b></i>: are the functions which are declared in the C header files such as scanf(), printf(), gets(), puts(), ceil(), floor() etc.\n\n2. <b><i>User-defined functions:</i></b> are the functions which are created by the C programmer, so that he/she can use it many times. It reduces the complexity of a big program and optimizes the code.\n\n\n<b><u>Return Value</u></b>\n\nA C function may or may not return a value from the function. If you don\'t have to return any value from the function, use void for the return type.\n\nLet\'s see a simple example of C function that doesn\'t return any value from the function.\n\nExample without return value:\n\nvoid hello(){\nprintf("hello c");\n}\n\n\nIf you want to return any value from the function, you need to use any data type such as int, long, char, etc. The return type depends on the value to be returned from the function.\n\nLet\'s see a simple example of C function that returns int value from the function.\n\nExample with return value:\n\nint get(){\nreturn 10;\n}\nIn the above example, we have to return 10 as a value, so the return type is int. If you want to return floating-point value (e.g., 10.2, 3.1, 54.5, etc), you need to use float as the return type of the method.\n\n\n<b><i>Different aspects of function calling</i></b>\n\tA function may or may not accept any argument. It may or may not return any value. Based on these facts, There are four different aspects of function calls.\n\t- function without arguments and without return value\n\t- function without arguments and with return value\n\t- function with arguments and without return value\n\t- function with arguments and with return value.</string>
+    <string name="string_body52">A function prototype is simply the declaration of a function that specifies function\'s name, parameters and return type. It doesn\'t contain function body.\n\nA function prototype gives information to the compiler that the function may later be used in the program.\n\n\n<b><i>Syntax of function prototype</i></b>\n\treturnType functionName(type1 argument1, type2 argument2, . . .);</string>
+    <string name="string_body53">Learning  C Program is  a must.\n\n\nimportant advantages of learning C programming: \n - <b>C is a Middle-Level Language</b>. The middle-level languages are somewhere between the Low-level machine understandable assembly languages and High-Level user friendly languages. Being a middle-level language, C reduces the gap between the low-level and high-level languages. It can be used for writing operating systems as well as doing application level programming.\n - <b>Helps to understand the fundamentals of Computer Theories</b>. Most of the theories related to computers like Computer Networks, Compiler Designing, Computer Architecture, Operating Systems are based on C programming language and requires a good knowledge of C programming if you are working on them. In the modern high level languages, the machine level details are hidden from the user, so in order to work with CPU cache, memory, network adapters, learning C programming is a must.\n - <b>Fewer Libraries</b>. C programming language has fewer libraries in comparison with other high-level languages. So, learning C programming also clears programming concepts to a great extent as you have to write lot of things from scratch. You will not be dependent on the programming language entirely for implementing some basic operations and implementing them on your own will also help you to build your analytical skills.\n - <b>C is very fast in terms of execution time.</b> Programs written and compiled in C execute much faster than compared to any other programming language. C programming language is very fast in terms of execution as it does not have any additional processing overheads such as garbage collection or preventing memory leaks etc. The programmer must take care of these things on his own.\n - <b>Embedded Programming</b>. C is extensively used in Embedded Programming. Embedded Programming is also referred to as micro-controller programming, where C program is used to control micro-controllers. Microcontrollers and embedded programming is widely used in auto-motives, Robotics, Hardware etc. </string>
+    <string name="string_body54"><b>Design of large programs</b>\nThe design of a large program requires a great deal more care than a small program. In order to make the complexity of a large program manageable, the program is broken down into components, each of which is responsible for a small, well-defined part of the overall function of the program. Most languages have procedure and/or function constructions for dividing a program into components.\nBut for larger programs, higher-level components are needed. Consider a calculator program that calculates the values of C-like real expressions involving variables and can assign values to variables. A program designer can come up with a reasonable decomposition of this program into high-level components without having to consider details about how those components are implemented.\n\nFirst of all, since the expressions involve variables, there is a need to be able to save and retrieve values of variables. The need for this kind of functionality arises often in programs, and there are well-known data structures called tables that provide that kind of functionality.\n\nSecond, file input is in terms of characters, but understanding expressions and how they are evaluated is easiest with units called tokens. A token is a unit of text, such as a number or identifier or an operator that may contain more than one character. For a calculator program, it is useful to have a high-level component that breaks up a stream of characters into these tokens and classifies them.\n\nWith these two components, the work of the main program is much easier to accomplish, with the responsibility of token classification and variable value storage and retrieval delegated to other components.\n\nBoth components involve several functions that work together in a coordinated way. For example, the table component will require a function for assigning a value to a variable and another for retrieving the value of a variable, and it will also need some sort of body of data (perhaps an array) for saving the data. Since these components have distinct responsibilities, it is desirable to be able to put them into separate code files table.C and tokens.C, and compile them and test them separately. The main program is then written in a third file calculator.C, and it is tested and compiled after the others have been thoroughly tested.\n\n<b>Separate compilation</b>\nSeparate compilation is an integral part of the standard for the C programming language. When a C source code file is compiled there are two tasks performed by the compiler. First, the file is compiled into a format called an object file. Then the object file is linked with a library of standard C functions to produce an executable file.\nAn object file contains coding of the source code file into language that the machine understands. It is incomplete in that it may contain calls to functions that are in other files, and it need not contain a main function. When Unix compilers produce an object file, it has the same name as the source code file except that the suffix is changed to .o.\n\nSuppose you want to compile prog.C to produce the executable program prog. Normally, you would give the command\n\ng++ -Wall -o prog prog.C\nFirst the g++ program compiles prog.C and creates the object file prog.o. Then it links prog.o with the standard C libraries and creates the executable file prog. When called with a single .C argument, the g++ program removes the .o file.\nThe compilation and linking steps can be executed separately as follows:\n\ng++ -Wall -c prog.C\ng++ -o prog prog.o\nThe first g++ command just compiles prog.C into prog.o, and the second links it to create prog. The g++ program recognizes the .o suffix so that it doesn\'t try to compile prog.o.\nNow suppose you have C code files described above for the calculator program. Then the following commands will create the corresponding object files:\n\ng++ -Wall -c calculator.C\ng++ -Wall -c table.C\ng++ -Wall -c tokens.C\nWhen the g++ program is called with a list of .o files it will link them all together to form an executable program. So the following command creates the calculator program:\ng++ -o calculator calculator.o table.o tokens.o\n<b>Header files and #includes</b>\nIf the main program calls a function that is defined in another file, then the compiler needs to see a declaration for the function before the call in order to check correctness of argument and returned value types. In addition, the main program may need to declare variables whose types are declared elsewhere. This is done with header files, where shared types and functions are declared. Conventionally, the name of a header file ends in a .h suffix.\nIn the example calculator program, the files table.C, and tokens.C should have header files table.h and tokens.h. These header files define types and functions that are shared with other files. A pair of files consisting of a code file and its associated header file are referred to as a module. When a shared type or function is declared in a header file, the declaration should be the same as a declaration in a C file that is not separately compiled.\n\n<b>Including header files</b>\nA header file should be included in the file containing the code, as well as any file which uses its types and functions. A header file gets included in other files in which one of the following lines appear.\n#include "header-file"\nor\n#include "header-file"\nThe first form is used for standard library header files and other header files that are provided with the computer system. The second form is used for all other header files. In either case, after the compiler reads the include line it will start reading from the header file. When it finishes reading the header file, it resumes reading where it left off in the original file. Header file includes should appear near the beginning of any file which uses the information in the header file, before any code for or calls to functions declared in the header file.\nThe file calculator.C should include both of the header files since it will use types and functions from both of the other modules. The file tokens.C does not need any types or functions from the tables module, so it should only include tokens.h. Finally, the file tables.C does not need any types or functions from the tokens module, so it should only include tables.h.\n\n<b>Ordering include files</b>\nFor complex programs, some care is needed to get a correct order of includes. The important thing to remember is that the compiler reads the header files in the same order that they are included. If one header file uses a type that is declared in another header file then the header file with the type declaration should be included first. For C programs, this often arises with regard to header files that declare standard library functions, types, and constants. These include files never use programmer defined types so they can always safely appear before includes of other header files. The order of system header file includes is usually not important. Exceptions are documented in the on-line man pages.\n<b>The Unix make program</b>\nSeveral difficulties arise when you do separate compilation. First of all, you must give many different calls to g++ to compile all of your pieces. This means you have a lot of opportunities for mistyping commands. Secondly, you must remember which files are up-to-date, and which need to be recompiled. Forgetting to recompile something which has been corrected means the mistake doesn\'t go away, even though you think you\'ve fixed it. This can lead to terrible confusion. The solution to these difficulties is to use the Unix tool make to manage your compilations for you.\nWhen you type the Unix command make, the make program looks in the current working directory for a file named either makefile or Makefile. The make program then uses the makefile to determine how to update your program files to produce a completely compiled package.\n\n<b>Makefile entries</b>\nA makefile is a sequence of entries, each having the following form:\ntargets : prerequisites\ncommands\nTargets and prerequisites are both lists of filenames separated by blanks. The targets and prerequisites specify dependencies between files, with the target files being dependent on the prerequisites. This tells the make program that every target file should be remade whenever a prerequisite file is modified. An entry always has at least one target, but it can have no prerequisites.\nThe commands part of each entry consists of zero or more lines, each starting with a tab character, followed by a command to be executed. These commands should tell the make program how to remake target files. The tab is crucial; if it\'s not there then the make program does not know that it is reading a command line.\n\nWhen the make program starts up, it determines the age of each file in the current working directory by looking at time stamp information, which is a part of all Unix files. If a target file for an entry does not exist, or if it is older than any of the prerequisite files, then the make program issues all of the commands.\n\nIn simple makefiles there will be two kinds of entries. One kind creates an object file by compiling a C source code file. The second kind links object files into an executable program.\n\n<b>Makefile entries to create object files</b>\nHere is a typical makefile entry to create an object file:\ntable.o : table.C table.h\ng++ -Wall -c table.C\nThis entry says that the object file table.o is dependent on the files table.C and table.h. When the make program starts up, it determines the age of the files table.o, table.C, and table.h. If table.o does not exist, or if it is older than either of the files table.C or table.h, then the make program issues the command g++ -Wall -c table.C to make or remake table.o.\nWhen writing a program in pieces, each .o file should be made dependent on all of the header files that are included in the corresponding .C file. The reason for this is that if the header file is changed, the .o file needs to be remade. If the .o file is not remade, it is likely that different versions of the header file will be used in different parts of the program. The symptoms of this problem are unpredictable, so take care in setting up dependencies.\n\nThe make program should not be responsible for making .C and .h files. These are made by the programmer using an editor. Thus .C files and .h files should not be target files. The make program also should not be responsible for making .o files if their .C file is not available. For example, if you are working on a team and you are using a .o file provided by someone else, then your makefile should not contain an entry for that .o file.\n\n<b>Makefile entries to create executable programs</b>\nHere is a typical makefile entry to create an executable program:\ncalculator : calculator.o tokens.o table.o\ng++ -o calculator calculator.o tokens.o table.o\nThis entry tells the make program that calculator should be remade whenever it is older than any of the object files calculator.o, tokens.o or table.o. The compiler, when given a list of object files, will just link them to form the executable program. If the makefile also contains entries in which calculator.o, tokens.o, or table.o appear as targets then the make program will try to make them first.\n<b>A complete makefile example</b>\nSuppose you are working on the calculator program described earlier and that you are responsible for the main program module (calculator.C) and the table module (table.C and table.h), but someone else has provided you with the object file tokens.o and the header file tokens.h. Then the following makefile could be used.\ncalculator : calculator.o tokens.o table.o\ng++ -o calculator calculator.o tokens.o table.o\n\ncalculator.o : calculator.C tokens.h table.h\ng++ -Wall -c calculator.C\n\ntable.o : table.C table.h\ng++ -Wall -c table.C\nNote that there is no entry with tokens.o as a target since it is provided by another person; there is no way that the make program can recreate it. It is best to leave tokens.o as a prerequisite for calculator in case you get an updated version.\n<b>Some advanced make program features</b>\nIf a dependency or a command is too long to fit on one line it can be continued onto the next line by using a backslash. At the point where you want to break the line, insert the backslash followed immediately by a carriage return, then the rest of the line. This will not work if there are any characters, including spaces, between the backslash and the carriage return.\nUsually the command make is given by itself in response to the Unix prompt. When the make program is run this way, it tries to make the file or files appearing before the colon in the first entry of the makefile. It will check the files after the colon to see if they are up to date (as determined by other entries in the makefile) and, if necessary, update them. Thus with the given makefile, the make program will first check the object files to see if they are up-to-date. If not, or if they don\'t exist, they will be created using the commands given in the later entries. Once these files are made, the executable program calculator can be made using the command in the first entry of the makefile.\n\nThe make program can also be run with the command\n\nmake target-name\nwhere target-name is a target of some entry in the makefile. When used this way, the make program only updates files necessary to make target-name. Thus the command\nmake table.o\nwill make table.o without going on to make the rest of the package.\n[an error occurred while processing this directive]</string>
+
+    <string name="string_body61">In C programming, printf() is one of the main output function. The function sends formatted output to the screen.\n\n<b><u>How a function works:</u></b>\n - All valid C programs must contain the main() function. The code execution begins from the start of the main() function.\n - The printf() is a library function to send formatted output to the screen. The function prints the string inside quotations.\n - To use printf() in our program, we need to include stdio.h header file using the #include "stdio.h" statement.\n - The return 0; statement inside the main() function is the "Exit status" of the program. It\'s optional.\n\n\n<b><u>FORMAT SPECIFIERS: </u></b>\n\n<i>We use %d format specifier to print int types. Here, the %d inside the quotations will be replaced by the value of testInteger.</i>\n<i>To print float, we use %f format specifier. Similarly, we use %lf to print double values.</i>\n<i>To print char, we use %c format specifier.</i>\n\n\n\n\n</string>
+    <string name="string_body62"><b><u>Character Input</u></b>:\n\tIn C programming, scanf() is one of the commonly used function to take input from the user. The scanf() function reads formatted input from the standard input such as keyboards.\n\n<b><u>Data Type</u></b>\t\t\t	<b><u>Format Specifier</u></b>    int	%d\nchar\t\t	%c\nfloat\t\t	%f\ndouble\t\t	%lf\nshort int\t\t	%hd\nunsigned int\t\t	%u\nlong int\t\t	%li\nlong long int\t\t	%lli\nunsigned long int\t\t	%lu\nunsigned long long int\t\t	%llu\nsigned char\t\t	%c\nunsigned char\t\t	%c\nlong double\t\t	%Lf</string>
+    <string name="string_body63">The stdio.h header defines the fgets() function. This function reads a line from a stream and stores it in a specified string. The function stops reading text from the stream when either n - 1 characters are read, the newline character (\'\n\') is read or the end of file (EOF) is reached.\n\n\nThe fgets() function requires that the calling code provide the memory to be used as the destination for the line that is read.\n\nPOSIX makes the getline() function available which instead internally allocates memory to enlarge the buffer as necessary for a line of any length (as long as there is sufficient memory).</string>
+    <string name="string_body64">The <b>getline</b> function of the previous section reads one line from the user, as a string. What if we want to read a number\? One straightforward way is to read a string as before, and then immediately convert the string to a number. The standard C library contains a number of functions for doing this. The simplest to use are atoi(), which converts a string to an integer, and atof(), which converts a string to a floating-point number. (Both of these functions are declared in the header <b>&lt;;stdlib.h>;</b>, so you should #include that header at the top of any file using these functions.) You could read an integer from the user like this:\n\n#include "stdlib.h"\n\nchar line[256];\nint n;\nprintf("Type an integer:\n");\ngetline(line, 256);\nn = atoi(line);\n\n\nNow the variable n contains the number typed by the user. (This assumes that the user did type a valid number, and that getline did not return EOF.)\nReading a floating-point number is similar:\n\n#include "stdlib.h"\n\nchar line[256];\ndouble x;\nprintf("Type a floating-point number:\n");\ngetline(line, 256);\nx = atof(line);\n\n(atof is actually declared as returning type double, but you could also use it with a variable of type float, because in general, C automatically converts between float and double as needed.)\nAnother way of reading in numbers, which you\'re likely to see in other books on C, involves the scanf function, but it has several problems, so we won\'t discuss it for now. (Superficially, scanf seems simple enough, which is why it\'s often used, especially in textbooks. The trouble is that to perform input reliably using scanf is not nearly as easy as it looks, especially when you\'re not sure what the user is going to type.)</string>
+
+    <string name="string_body71">The assignment operators available in C program are: \n\n=, +=, -=, *=, /=, %=, &lt;&lt;=, >>=, &amp;=, ^=, |= \n\n\n<b><u>Example</u></b>\nTry the following example to understand all the assignment operators available in C −\n\n\n</string>
+    <string name="string_body72">The decrement (–) and increment (++) operators are special types of operators used in programming languages to decrement and increment the value of the given variable by 1 (one), respectively.\n\n\n<b><i>Types of Increment and Decrement Operators in C</i></b>\n - Prefix Increment operator\n - Prefix Decrement operator\n - Postfix Increment operator\n - Postfix Decrement operator\n\nThe Syntax of Postfix and Prefix increment operators are \n// PREFIX\n\n++x\n\n// POSTFIX\n\nx++\n\nwhere x is a variable\n\n\nSyntax of Increment Operators\n// PREFIX\n\n–x\n\n// POSTFIX\n\nx–\n\n        where x is a variable.\n\n\n<b><i>Differences between Postfix and Prefix operators:</i></b>\n\tPostfix operators increments or decrements the value of its variable after the usage of the variable. The variable attains the current value of the operand.\nWhereas, <b>Prefix</b> operators assigns/allows the usage of the value of the incremented or decremented variable.</string>
+    <string name="string_body73"><b>Order of evaluation refers to the operator precedence and associativity rules according to which mathematical expressions are evaluated.</b>\n\nOperators in the same row have the same precedence. The compiler will evaluate them in any order.\n\nOperators in different rows have different precedence. Rows are in order of decreasing precedence. This means that below a given row, any operator in the lower rows will have lower precedence than the operators in the highest row.\n\nThe order of precedence can be altered by using parentheses around the parts of the mathematical expression that needs to be evaluated first.\n\n\nThe <b>order of evaluation</b> is shown below, from <b><i>TOP to BOTTOM</i></b>\n\n(), [], {}, .\n!, ~, ++, --\n*, /, %\n+, -\n&lt;&lt;, >>\n&lt;, &lt;==, >, >=\n==, !=\n&amp;\n^\n|\n&amp;&amp;\n||\n\?:\n=, +=, -=, *=, /=, %=, &amp;=, ^=, |=, &lt;&lt;=, >>=</string>
+
+    <string name="string_body81">The contents on Declaring functions or variables have been defined already in the previous (sub chapters: 2.2, 2.4, etc.) \n\nTo elaborate more on declaration and definitions, we\'re explaining the differences between, and is given as below.\n\n\nA declaration means (in C) that you are telling the compiler about type, size and in case of function declaration, type and size of its parameters of any variable, or user-defined type or function in your program. No space is reserved in memory for any variable in case of the declaration.\n\nThe Definition on the other hand means that in additions to all the things that declaration does, space is additionally reserved in memory. You can say "DEFINITION = DECLARATION + SPACE RESERVATION".\n\n\nFollowing are examples of declarations −\nextern int a;                           // Declaring a variable a without defining it\nstruct _tagExample { int a; int b; };   // Declaring a struct\nint myFunc (int a, int b);              // Declaring a function\n\nWhile following are examples of Definition - \n\nint a;\nint b = 0;\nint myFunc (int a, int b) { return a + b; }\nstruct _tagExample example;</string>
+
+    <string name="string_body91"><b>File Inclusion</b>\n\nThis type of preprocessor directive tells the compiler to include a file in the source code program. There are two types of files that can be included by the user in the program: \n\n<b><i>Header files or Standard files</i></b>: These files contain definitions of pre-defined functions like printf(), scanf(), etc. These files must be included to work with these functions. Different functions are declared in different header files. For example, standard I/O functions are in the \‘iostream\’ file whereas functions that perform string operations are in the \‘string\’ file.\n\n<b><i>Syntax:</i></b> \n#include"file_name"\nwhere file_name is the name of the file to be included. The \‘&lt;\‘ and \‘>\’ brackets tell the compiler to look for the file in the standard directory. \n\n<b><i>User-defined files:</i></b>When a program becomes very large, it is a good practice to divide it into smaller files and include them whenever needed. These types of files are user-defined files. These files can be included as:\n\t#include"filename"</string>
+    <string name="string_body92">Macro substitution is a mechanism that provides a string substitution. It can be achieved through "#define".\n\nIt is used to replace the first part with the second part of the macro definition, before the execution of the program.\n\nThe first object may be a function type or an object.\n\n<b><i>Syntax</i></b>\nThe syntax for macros is as follows −\n#define first_part second_part\n\n\nMacros substitution are illustrated in the following Example:\n\n\n</string>
+    <string name="string_body93">In C programming language, several directives control the selective compilation of portions of the program code. They are as follows −\n\n#if\n#else\n#elif\n#endif\nThe general form of <b>#if</b> is as follows −\n\n<i>#if constant_expression\nstatement sequence\n#endif</i>\n\n\n\n#else works much like the C keyword else.\n\n#elif means "else if" and establishes an if else-if compilation chain.\n\nAmongst other things, #if provides an alternative method of "commenting out" code.\n\nFor example,\n\n#if 0\nprintf("#d", total);\n#endif\nHere, the compiler will ignore printf("#d", total);\n\n<b>#ifdef and #ifndef</b>\n#ifdef means "if defined", and is terminated by an #endif.\n\n#indef means "if not defined".<b>#undef</b>\n#undef removes a previously defined definition.\n<b>#line</b>\n#line changes the contents of __LINE__ which contains the line number of the currently compiled code and __FILE__ which is a string that contains the name of the source file being compiled. Both of which are predefined identifiers in the compiler.\n<b>#pragma</b>\nThe #pragma directive is an implementation-defined directive which allows the various instructions to be given to the compiler.\n\n\nFollowing is the C program <b>to demonstrate #ifdef, #ifndef , #else and #endif</b> - </string>
+
+    <string name="string_body101"><b>Pointer Arithmetic in C</b>\nWe can perform arithmetic operations on the pointers like addition, subtraction, etc. However, as we know that pointer contains the address, the result of an arithmetic operation performed on the pointer will also be a pointer if the other operand is of type integer. In pointer-from-pointer subtraction, the result will be an integer value. Following arithmetic operations are possible on the pointer in C language:\n\nIncrement\nDecrement\nAddition\nSubtraction\nComparison\n\n\n\n1. <b><i>Incrementing Pointer in C</i></b>\n\tIf we increment a pointer by 1, the pointer will start pointing to the immediate next location. This is somewhat different from the general arithmetic since the value of the pointer will get increased by the size of the data type to which the pointer is pointing.\n\nWe can traverse an array by using the increment operation on a pointer which will keep pointing to every element of the array, perform some operation on that, and update itself in a loop.\n\n\nThe Rule to increment the pointer is given below:\n\nnew_address= current_address + i * size_of(data type)\nWhere i is the number by which the pointer get increased.\n\n<b>32-bit</b>\nFor 32-bit int variable, it will be incremented by 2 bytes.\n\n<b>64-bit</b>\nFor 64-bit int variable, it will be incremented by 4 bytes.\n\n\n\n\n2. <b><i>Decrementing Pointer in C</i></b>\n\tLike increment, we can decrement a pointer variable. If we decrement a pointer, it will start pointing to the previous location. The formula of decrementing the pointer is given below:\n\nnew_address= current_address - i * size_of(data type)\n<b>32-bit</b>\nFor 32-bit int variable, it will be decremented by 2 bytes.\n\n<b>64-bit</b>\nFor 64-bit int variable, it will be decremented by 4 bytes.</string>
+    <string name="string_body102">In most contexts, array names decay to pointers. In simple words, array names are converted to pointers. That\'s the reason why you can use pointers to access elements of arrays. However, you should remember that <b>pointers and arrays are not the same</b>.\n\n</string>
+    <string name="string_body103">As we\'ve seen, you can add an integer to a pointer to get a new pointer, pointing somewhere beyond the original (as long as it\'s in the same array). For example, you might write\n\n\tip2 = ip1 + 3;\n\nApplying a little algebra, you might wonder whether\n\tip2 - ip1 = 3\n\nand the answer is, yes. When you subtract two pointers, as long as they point into the same array, the result is the number of elements separating them. You can also ask (again, as long as they point into the same array) whether one pointer is greater or less than another: one pointer is greater than\'\' another if it points beyond where the other one points. You can also compare pointers for equality and inequality: two pointers are equal if they point to the same variable or to the same cell in an array, and are (obviously) unequal if they don\'t. (When testing for equality or inequality, the two pointers do not have to point into the same array.)\n\nOne common use of pointer comparisons is when copying arrays using pointers. Here is a code fragment which copies 10 elements from <b>array1</b> to <b>array2</b>, using pointers. It uses an end pointer, ep, to keep track of when it should stop copying.\n\nint array1[10], array2[10];\n\tint *ip1, *ip2 = &amp;array2[0];\n\tint *ep = &amp;array1[10];\n\tfor(ip1 = &amp;array1[0]; ip1 &lt; ep; ip1++)\n\t*ip2++ = *ip1;\n\n\nAs we mentioned, there is no element array1[10], but it is legal to compute a pointer to this (nonexistent) element, as long as we only use it in pointer comparisons like this (that is, as long as we never try to fetch or store the value that it points to.)</string>
+    <string name="string_body104">A null pointer is a pointer which points nothing.\n\nSome uses of the null pointer are:\n\na) To initialize a pointer variable when that pointer variable isn\’t assigned any valid memory address yet.\n\nb) To pass a null pointer to a function argument when we don\’t want to pass any valid memory address.\n\nc) To check for null pointer before accessing any pointer variable. So that, we can perform error handling in pointer related code e.g. dereference pointer variable only if it\’s not NULL.\n\n\n<b><i>Algorithm</i></b>\nBegin.\nDeclare a pointer p of the integer datatype.\n\tInitialize *p= NULL.\nPrint “The value of pointer is”.\n\tPrint the value of the pointer p.\nEnd.</string>
+    <string name="string_body105">Arrays and pointers are synonymous in terms of how they use to access memory. But, the important difference between them is that, a pointer variable can take different addresses as value whereas, in case of array it is fixed. In C , name of the array always points to the first element of an array.</string>
+    <string name="string_body106">A whole array cannot be passed as an argument to a function in C++. You can, however, pass a pointer to an array without an index by specifying the array\’s name.\n\nIn C, when we pass an array to a function say fun(), it is always treated as a pointer by fun(). \n\n\nTherefore in C, we must pass the size of the array as a parameter. Size may not be needed only in the case of \‘\0\’ terminated character arrays, size can be determined by checking the end of string character.\n\nHowever it has some drawbacks, and the are Listed as below.\n\n<b><i>Drawbacks</i></b>:\n\n - A major drawback of the above method is compiler has no idea about what you are passing. What I mean here is for compiler we are just passing an int* and we know that this is pointing to the array but the compiler doesn\’t know this.\n\n - To verify my statement you can call for-each loop on your array. You will surely get an error saying no callable begin, end function found.\nThis is because the passing array is like actually passing an integer pointer and it itself has no information about the underlying array hence no iterator is provided.\n\nA major drawback of the above method is compiler has no idea about what you are passing. What I mean here is for compiler we are just passing an int* and we know that this is pointing to the array but the compiler doesn\’t know this.\n\nTo verify my statement you can call for-each loop on your array. You will surely get an error saying no callable begin, end function found.\nThis is because the passing array is like actually passing an integer pointer and it itself has no information about the underlying array hence no iterator is provided.\n\n\n\n<b><i>Template Approach (Reference to Array):</i></b>\n\nThis method retains all information about the underlying array. This method is majorly based on reference to an array but using this with templates optimizes our method. Template dependency actually calculates the length of the array automatically at the time of function call so that it can be used to create a reference because a reference to an array must know the size of the array.\n\n\n\n</string>
+    <string name="string_body107">In C programming, a string is a sequence of characters terminated with a null character \0. For example:\n\nchar c[] = "c string";\nWhen the compiler encounters a sequence of characters enclosed in the double quotation marks, it appends a null character \0 at the end by default.\n\n\n\n<b>How to declare a string\?</b>\n\nHere\'s how you can declare strings:\n\nchar s[5];\nHere, we have declared a string of 5 characters.\n\n<b>How to initialize strings\?</b>\nThe following example is supplied to demonstrate the initialization of a string:\n\nchar c[] = "abcd";\n\nchar c[50] = "abcd";\n\nchar c[] = {\'a\', \'b\', \'c\', \'d\', \'\0\'};\n\nchar c[5] = {\'a\', \'b\', \'c\', \'d\', \'\0\'};\n\n\n<b><i>Assigning Values to Strings</i></b>\n\tArrays and strings are second-class citizens in C; they do not support the assignment operator once it is declared. For example,\n\nchar c[100];\nc = "C programming";  // Error! array type is not assignable.\n\n<b>Note:</b> Use the strcpy()function to copy the string instead.\n\n\n<b><u>Some string functions that are used in C language is a s follows</u></b>:\n\n1. <b>Read String from the user:</b>\n Use the scanf() function to read a string.\n\tThe scanf() function reads the sequence of characters until it encounters whitespace (space, newline, tab, etc.).\n\n\n2. <b><u>How to read a line of text\?</u></b>\n\tuse the fgets() function to read a line of string. And, you can use puts() to display the string. \n\n\n\n<b><u>Commonly used String Functions:</u></b>\n\n - <b>strlen():</b> calculates the length of a string\n - <b>strcpy():</b> copies a string to another\n - <b>strcmp():</b> compares two strings\n - <b>strcat()</b>: concatenates two strings</string>
+    <string name="string_body108">The concept of Breaking a given sting into Keywords is Given in the Following Program example: \n\n</string>
+
+    <string name="string_body111">Since C is a structured language, it has some fixed rules for programming. One of them includes changing the size of an array. An array is a collection of items stored at contiguous memory locations. \n\n\nC Dynamic Memory Allocation is  a procedure in which the size of a data structure (like Array) is changed during the runtime.\nC provides some functions to achieve these tasks.\n\n\nThere are 4 library functions provided by C defined under "stdlib.h" header file to facilitate dynamic memory allocation in C programming. They are:\n - malloc()\n - calloc()\n - free()\n - realloc()\n\n------------------------\n\n\n1. <b><u>C malloc() method</u></b>\n\nThe <b>"malloc"</b> or <b>"memory allocation"</b> method in C is used to dynamically allocate a single large block of memory with the specified size. It returns a pointer of type void which can be cast into a pointer of any form. It doesn\’t Initialize memory at execution time so that it has initialized each block with the default garbage value initially. \n\n<b><i>Syntax:</i></b>\nptr = (cast-type*) malloc(byte-size)\n\n<b><i>For Example:</i></b>\n\n<b>ptr = (int*) malloc(100 * sizeof(int));</b>\n<i>Since the size of int is 4 bytes, this statement will allocate 400 bytes of memory. And, the pointer ptr holds the address of the first byte in the allocated memory.</i>\n\n\n2. <b><u>C calloc() method</u></b>\n\n - <b>"calloc"</b> or <b>"contiguous allocation"</b> method in C is used to dynamically allocate the specified number of blocks of memory of the specified type. it is very much similar to malloc() but has two different points and these are:\n - It initializes each block with a default value \‘0\’.\n - It has two parameters or arguments as compare to malloc().\n\n<b>Syntax:</b>\nptr = (cast-type*)calloc(n, element-size);\nhere, n is the no. of elements and element-size is the size of each element.\n\n\n<b>For Example:</b>\n\n\t<b><i>ptr = (float*) calloc(25, sizeof(float));</i></b>\n<i>This statement allocates contiguous space in memory for 25 elements each with the size of the float.</i>\n<u>If space is insufficient, allocation fails and returns a NULL pointer.</u>\n\n\n3. <b><u>C free() method</u></b>\n\n<b>"free"</b> method in C is used to dynamically <b>de-allocate</b> the memory. The memory allocated using functions malloc() and calloc() is not de-allocated on their own. Hence the free() method is used, whenever the dynamic memory allocation takes place. It helps to reduce wastage of memory by freeing it.\n\n<b>Syntax:</b>\n\tfree(ptr);\n\n\n4. <b><u>C realloc() method</u></b>\n\t<b>"realloc"</b> or <b>"re-allocation"</b> method in C is used to dynamically change the memory allocation of a previously allocated memory. In other words, if the memory previously allocated with the help of malloc or calloc is insufficient, realloc can be used to <b>dynamically re-allocate memory.</b>\nre-allocation of memory maintains the already present value and new blocks will be initialized with the default garbage value.\n\n<b>Syntax:</b>\nptr = realloc(ptr, newSize);\n\nwhere ptr is reallocated with new size \'newSize\'.</string>
+    <string name="string_body112">“free” method in C is used to dynamically de-allocate the memory. The memory allocated using functions malloc() and calloc() is not de-allocated on their own.</string>
+    <string name="string_body113">In the C Programming Language, the realloc function is used to resize a block of memory that was previously allocated. The realloc function allocates a block of memory (which be can make it larger or smaller in size than the original) and copies the contents of the old block to the new block of memory, if necessary.\n\n\n<b>Syntax</b>\nThe syntax for the realloc function in the C Language is:\n<i>void *realloc(void *ptr, size_t size);</i>\n\nParameters or Arguments\n<b>ptr</b>\nThe old block of memory.\n<b>size</b>\nThe size of the elements in bytes.\n\n<b>NOTE:</b>\t<i>ptr</i> must have been allocated by one of the following functions - <b>calloc function</b>, <b>malloc function</b>, or <b>realloc function</b>.\n\n\n<b>Returns</b>\nThe realloc function returns a pointer to the beginning of the block of memory. If the block of memory can not be allocated, the realloc function will return a null pointer.\n\n<b>Required Header</b>\nIn the C Language, the required header for the realloc function is:\n<i>#include "stdlib.h"</i></string>
+    <string name="string_body114"><i>If you are a C or C++ programmer, you may be a bit frightened after reading the previous section because you know that misuse of pointers in your programs can cause your programs to crash. DTrace is a robust, safe environment for executing your D programs where these mistakes cannot cause program crashes. You may indeed write a buggy D program, but invalid D pointer accesses will not cause DTrace or the operating system kernel to fail or crash in any way. Instead, the DTrace software will detect any invalid pointer accesses, disable your instrumentation, and report the problem back to you for debugging.</i>\n\n\n<i>If you have programmed in the Java programming language, you probably know that the Java language does not support pointers for precisely the same reasons of safety. Pointers are needed in D because they are an intrinsic part of the operating system\'s implementation in C, but DTrace implements the same kind of safety mechanisms found in the Java programming language that prevent buggy programs from damaging themselves or each other. DTrace\'s error reporting is similar to the run-time environment for the Java programming language that detects a programming error and reports an exception back to you.</i>\n\n\n</string>
+
+    <string name="string_body121"><b>File Pointer: </b> File pointer is a pointer which is used to handle and keep track on the files being accessed. A new data type called “FILE” is used to declare file pointer. This data type is defined in stdio.h file. File pointer is declared as FILE *fp. Where, \‘fp\’ is a file pointer.\n\n\nfopen() function is used to open a file that returns a FILE pointer. Once file is opened, file pointer can be used to perform I/O operations on the file. fclose() function is used to close the file.</string>
+    <string name="string_body122"><b>Input/Output operation on File</b>\n\n <b><i>getc()</i></b> and <b><i>putc()</i></b> are the simplest functions which can be used to read and write individual characters to a file.\n\n\n<b><i>Reading and Writing to File using <u>fprintf()</u> and <u>fscanf()</u></i></b>\n\tfprintf() function directly writes into the file, while fscanf() reads from the file, which can then be printed on the console using standard printf() function.\n\n\nThe following program will demonstrate <i><u>I/O with File Pointers</u></i> in C.\n\n\n\n</string>
+    <string name="string_body123"><b>Standard Streams - C</b>\n\nThe <b>standard streams</b> are three predefined streams between the program and the host environment open and available for use by every C program when the main function of the program is invoked. The three standard streams are the <b>standard input</b>, <b>standard output</b>, and the <b>standard error</b> streams.\n\n\n\nThe "stdio.h" standard header provides definitions for three external variables. The three predefined streams are:\n\n#include "stdio.h"\n\nextern FILE *stdin;\nextern FILE *stdout;\nextern FILE *stderr;\n\n--------------------------\n\n\n1. <b>stdin</b>\nThe <i>stdin</i> extern variable which is of type <b>FILE *</b> is the standard input stream which is usually the normal source of input for the program such as the keyboard. On some environments, the host environment can also redirect files and other types of streams to the standard input.\n\n2. <b>stdout</b>\nThe <b>stdout</b> extern variable which is of type <b>FILE *</b> is the standard output stream which is used for normal output from the program. Typically this stream is connected to a terminal.\n\n3. <b>stderr</b>\nThe <i>\'stderr</i> extern variable which is of type <b>FILE *</b> is the standard error stream. This stream is used for error messages and reporting diagnostics issued by the program.</string>
+    <string name="string_body124"><b><u>Closing a File</u></b>\n\n\nThe file (both text and binary) should be closed after reading/writing.\n\nClosing a file is performed using the fclose() function.\n\nfclose(fptr);\nHere, fptr is a file pointer associated with the file to be closed.</string>
+    <string name="string_body125">C programming language supports four pre-defined functions to read contents from a file, defined in stdio.h header file:\n\n - fgetc(): This function is used to read a single character from the file.\n - fgets(): This function is used to read strings from files.\n - fscanf(): This function is used to read formatted input from a file.\n - fread(): This function is used to read the block of raw bytes from files. This is used to read binary files.\n\n<b>Steps To Read A File:</b>\n\n - Open a file using the function fopen() and store the reference of the file in a FILE pointer.\n - Read contents of the file using any of these functions fgetc(), fgets(), fscanf(), or fread().\n - File close the file using the function fclose().\n\n\nThe use of the Functions is demonstrate in the Example below:\n\n</string>
+
+    <string name="string_body131">In programming, comments are hints that a programmer can add to make their code easier to read and understand.\n\n\n<b>Types of Comments</b>\nThere are two ways to add comments in C:\n\n1. <b>//</b> - Single Line Comment:  In C, a single line comment starts with //. It starts and ends in the same line.  \n2. <b>/*...*/</b> - Multi-line Comment: In C programming, there is another type of comment that allows us to comment on multiple lines at once, they are multi-line comments.\n\n\n\t-----------------\n\n<b><u>Use of Comments in C</u></b>\n\n1. <u>Make Code Easier to Understand</u>\n2. <u>Using Comments for debugging</u>\n\n\nThe following Program illustrates the use of Comment Lines in C.</string>
+
+    <string name="string_body141"><b>C Declarations:</b>\n\n\tA "declaration" establishes an association between a particular variable, function, or type and its attributes. Overview of Declarations gives the ANSI syntax for the declaration nonterminal. A declaration also specifies where and when an identifier can be accessed (the "linkage" of an identifier).\n\nA "definition" of a variable establishes the same associations as a declaration but also causes storage to be allocated for the variable.\n\nIn C programming, data types are declarations for variables. This determines the type and size of data associated with variables. For example,\n\nint myVar;\nHere, myVar is a variable of int (integer) type. The size of int is 4 bytes.\n\nThe basic data types available in C are <b>int, char, float, double, short int, unsigned int, long int, long long int, unsigned int, log int, long long int, unsigned long int, unsigned long long int, signed char, unsigned char, long double.</b> \n\n\n\t----------------------\n.</string>
+    <string name="string_body142">The operators available in C Programming Language are: \n - Arithmetic operators\n - Relational operators\n - Logical operators.\n - Assignment Operators.\n - Increment and Decrement Operators.\n - \n\n\n1. <b>Arithmetic operators: </b> +, -, *, / and %.\n\n\n The following program demonstrates the use of the Arithmetic operators.\n\nExample:\n// Working of arithmetic operators\n#include "stdio.h"; \nint main()\n{\nint a = 9,b = 4, c;\n\nc = a+b;\nprintf("a+b = %d \n",c);\nc = a-b;\nprintf("a-b = %d \n",c);\nc = a*b;\nprintf("a*b = %d \n",c);\nc = a/b;\nprintf("a/b = %d \n",c);\nc = a%b;\nprintf("Remainder when a divided by b = %d \n",c);\n\nreturn 0;\n}   \n\n<b>Output</b>:\na+b = 13\na-b = 5\na*b = 36\na/b = 2\nRemainder when a divided by b=1.  \n\n2. Relational operators: ==, >, &lt;, !=, &lt;= and >=\n\n\n   The following program demonstrates the use of the Relational operators.\n\nExample:\n// Working of relational operators\n#include "stdio.h"\nint main()\n{\nint a = 5, b = 5, c = 10;\n\nprintf("%d == %d is %d \n", a, b, a == b);\nprintf("%d == %d is %d \n", a, c, a == c);\nprintf("%d > %d is %d \n", a, b, a > b);\nprintf("%d > %d is %d \n", a, c, a > c);\nprintf("%d &lt; %d is %d \n", a, b, a &lt; b);\nprintf("%d &lt; %d is %d \n", a, c, a &lt; c);\nprintf("%d != %d is %d \n", a, b, a != b);\nprintf("%d != %d is %d \n", a, c, a != c);\nprintf("%d >= %d is %d \n", a, b, a >= b);\nprintf("%d >= %d is %d \n", a, c, a >= c);\nprintf("%d &lt;= %d is %d \n", a, b, a &lt;= b);\nprintf("%d &lt;= %d is %d \n", a, c, a &lt;= c);\n\nreturn 0;\n}   \n\n<b>Output</b>:\n5 == 5 is 1\n5 == 10 is 0\n5 > 5 is 0\n5 > 10 is 0\n5 &lt; 5 is 0\n5 &lt; 10 is 1\n5 != 5 is 0\n5 != 10 is 1\n5 >= 5 is 1\n5 >= 10 is 0\n5 &lt;= 5 is 1\n5 &lt;= 10 is 1. \n\n3. <b>Logical operators</b>: &amp;&amp;, || and !.\n\n\n  The following program demonstrates the use of the Arithmetic operators.\n\nExample:\n// Working of logical operators\n\n#include "stdio.h"\nint main()\n{\nint a = 5, b = 5, c = 10, result;\n\nresult = (a == b) &amp;&amp; (c > b);\nprintf("(a == b) &amp;&amp; (c > b) is %d \n", result);\n\nresult = (a == b) &amp;&amp; (c &lt; b);\nprintf("(a == b) &amp;&amp; (c &lt; b) is %d \n", result);\n\nresult = (a == b) || (c &lt; b);\nprintf("(a == b) || (c &lt; b) is %d \n", result);\n\nresult = (a != b) || (c &lt; b);\nprintf("(a != b) || (c &lt; b) is %d \n", result);\n\nresult = !(a != b);\nprintf("!(a != b) is %d \n", result);\\nresult = !(a == b);\nprintf("!(a == b) is %d \n", result);\n\nreturn 0;\n}   \n\n<b>Output</b>:\n (a == b) &amp;&amp; (c > b) is 1\n(a == b) &amp;&amp; (c &lt; b) is 0\n(a == b) || (c &lt; b) is 1\n(a != b) || (c &lt; b) is 0\n!(a != b) is 1\n!(a == b) is 0.   \n\n 4. <b>Assignment Operators</b>: =, +=, -=, *=, /= and %=. \nThe following program demonstrates the use of the Assignment Operators.\n// Working of assignment operators\n#include "stdio.h"\nint main()\n{\nint a = 5, c;\n\nc = a;      // c is 5\nprintf("c = %d\n", c);\nc += a;     // c is 10\nprintf("c = %d\n", c);\nc -= a;     // c is 5\nprintf("c = %d\n", c);\nc *= a;     // c is 25\nprintf("c = %d\n", c);\nc /= a;     // c is 5\nprintf("c = %d\n", c);\nc %= a;     // c = 0\nprintf("c = %d\n", c);\n\nreturn 0;\n}\n\n<b>Output</b>:\nc = 5\nc = 10\nc = 5\nc = 25\nc = 5\nc = 0   \n\n 5. <b>Increment and Decrement Operators</b>\nThe following program demonstrates the use of the Increment and Decrement Operators.\n\nExample:\n// Working of increment and decrement operators\n#include "stdio.h"\nint main()\n{\nint a = 10, b = 100;\nfloat c = 10.5, d = 100.5;\n\nprintf("++a = %d \n", ++a);\nprintf("--b = %d \n", --b);\nprintf("++c = %f \n", ++c);\nprintf("--d = %f \n", --d);\n\nreturn 0;\n}\n\n<b>Output</b>:\n++a = 11\n--b = 99\n++c = 11.500000\n--d = 99.500000</string>
+    <string name="string_body143"><i>     C programs are collection of Statements, statements is an executable part of the program it will do some action. In general all arithmetic actions and logical actions are falls under Statements Categories anyway there are few Statement categories</i>\n\n\n - Expression Statements.\n - Compound Statements.\n - Selection Statements.\n - Iterative Statements.\n - Jump Statements.
+\n\n\n1. <b><i>Expression Statements.</i></b>:  It is combination of variables, Constants, operators, Function Calls and followed by a semicolon. Expression can be any operation like Arithmetic operation or Logical Operation.\nFew Examples for expression Statements\nX = Y + 10 ;\n20 > 90;\na \? b : c ;\na = 10 + 20 * 30;\n;   (This is NULL Statement ).
+\n2. <b><i>Compound Statements</i></b>:                Compound statement is combination of several expression statements. Compound Statement is Enclosed within the Braces { }.\nCompound statement is also called as Block Statement.\nThere is no need of any semicolon at the end of Compound Statement.\n\nExample for Compound Statement\n\n{\nint a=10,b=20,c;\nc = a + b;\nprintf(“value of C is : %d n”,c);\n}\n
+        \n3. <b><i>Selection Statements.</i></b>:      Selection Statements are used in decisions making situations we will look about selections statements in Later Tutorials. Here is the few examples of Selection statements\n\n - if\n - if…else\n - switch
+        \n4. <b><i>Iterative Statements.</i></b>:   These are also Called as Loops. If we want to Execute a part of program many times we will use loops.We will going to explain each and Every loop in Detail in Later Tutorials. Here is the List of Basic loops in C language.\n\n - for loop.\n - while loop.\n - do-while loop.
+        \n5. <b><i>Jump Statements.</i></b>:            These are Unconditional statements Jump statements are useful for Transfer the Control one part of program to other part of Program there are few Jump Statements in C\n\n - goto.\n - continue.\n - break.\n - return.
+    </string>
+
+</resources>
